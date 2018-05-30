@@ -1,6 +1,8 @@
 import React from 'react';
 import { withRouter } from 'react-router-dom';
 import { connect } from 'react-redux';
+import styled from 'styled-components';
+import style from './style';
 
 import authActions from 'redux/Auth/actions';
 import userActions from 'redux/User/actions'; 
@@ -31,7 +33,7 @@ class Form extends React.Component {
     });
   }
 
-  handleSignUp = (e) => {
+  handleSubmit = (e) => {
     e.preventDefault();
 
     if(this.formValid()){
@@ -42,8 +44,6 @@ class Form extends React.Component {
         this.props.history.push('/dashboard')
       });
 
-    } else {
-      console.log('invalid');
     }
   }
 
@@ -90,7 +90,7 @@ class Form extends React.Component {
     const { formData, showPassword, showErrors } = this.state;
 
     return (
-      <form onSubmit={this.handleSignUp} className={this.props.className} >
+      <form onSubmit={this.handleSubmit} className={this.props.className} >
         <div className="form-field">
           <input 
             type="text"      
@@ -99,8 +99,9 @@ class Form extends React.Component {
             onChange={this.handleChange} 
             onBlur={this.handleBlur}
             placeholder="Email Address"
+            className={showErrors.email && 'error'}
           />        
-          {showErrors.email && <div className="error">Please enter a valid email.</div>}
+          {showErrors.email && <div className="error-message">Please enter a valid email.</div>}
           
         </div>
         
@@ -111,15 +112,16 @@ class Form extends React.Component {
             value={formData.password}  
             onChange={this.handleChange}
             onBlur={this.handleBlur}
-            placeholder="Create Password" 
+            placeholder={this.props.signUpForm ? "Create Password" : "Password"}
             autoComplete="new-password" 
+            className={showErrors.password && 'error'}
           />      
           <a href="" onClick={this.showPassword}>Show password</a>    
-          {showErrors.password && <div className="error">Please enter a password.</div>}
+          {showErrors.password && <div className="error-message">Please enter a password.</div>}
           
         </div>
 
-        <input type="submit" value="Sign Up" />
+        <input type="submit" value={this.props.signUpForm ? "Sign Up" : "Log In"}  />
       </form>
     );
   }
@@ -140,4 +142,5 @@ const mapDispatchToProps = (dispatch) => {
   }
 };
 
-export default withRouter(connect( null, mapDispatchToProps )(Form));
+const StyledForm = styled(Form)`${style}`;
+export default withRouter(connect( null, mapDispatchToProps )(StyledForm));

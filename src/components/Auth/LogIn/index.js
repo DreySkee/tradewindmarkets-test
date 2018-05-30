@@ -3,18 +3,18 @@ import { Link } from 'react-router-dom';
 import SocialSignIn from 'components/_common/SocialSignIn';
 import Form from 'components/_common/Form';
 
-function SignUp({ className }){
+function LogIn({ className }){
   return (
     <div>
       <div className="container">
-        <h2>Create Your Account</h2>
-        <p>Already have an account? <Link to="/login">Log in »</Link></p>
+        <h2>Log In</h2>
+        <p>Don't have an account? <Link to="/signup">Create one »</Link></p>
 
         <SocialSignIn />
-        <Form signUpForm />
+        <Form  />
       </div>
     </div>
   );
 }
 
-export default SignUp;
+export default LogIn;

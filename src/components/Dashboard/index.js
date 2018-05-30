@@ -6,16 +6,18 @@ import style from './style';
 class Dashboard extends React.Component {
   render(){
     const { userData } = this.props;
-    console.log(userData) 
+
     return (
       <div className={this.props.className}>
-        <h1>Dashboard</h1>
-
-        <div>
-          Your email: {userData.email}
-        </div>
-        <div>
-          Your password: {userData.password}
+        <div className="container">
+          <h2>Dashboard</h2>
+          <div>
+            {Object.keys(userData).map((key, index) => (
+              <div key={index}>
+                <b>{key}:</b> {userData[key]}
+              </div>
+            ))}
+          </div>
         </div>
       </div>
     );    
