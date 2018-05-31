@@ -1,6 +1,6 @@
 # Tradewind Markets Test
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
-Styling was done using [Styled Components](https://www.styled-components.com/).
+This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).<br>
+Styling was done using [Styled Components](https://www.styled-components.com/).<br>
 App state is managed with [Redux](https://redux.js.org/).
 
 ### Available Scripts

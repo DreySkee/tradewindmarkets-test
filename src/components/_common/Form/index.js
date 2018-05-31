@@ -24,9 +24,8 @@ class Form extends React.Component {
   }
 
   handleChange = (e) => {
-    const target = e.target;
-    const value = target.type === 'checkbox' ? target.checked : target.value;
-    const name = target.name;
+    const value = e.target.value;
+    const name = e.target.name;
 
     this.setState((state) => {
       return state.formData[name] = value
@@ -39,11 +38,14 @@ class Form extends React.Component {
     if(this.formValid()){
       const { email, password } = this.state.formData;
 
+      // signup, store data and redirect to dashboard
       this.props.signUp({ email, password }).then((data) => {  
         this.props.setUser(data);
         this.props.history.push('/dashboard')
+      }).catch((err) => {
+        // handle error
+        alert('Invalid email and/or password');
       });
-
     }
   }
 
@@ -63,6 +65,7 @@ class Form extends React.Component {
     let formValid = true;
     const { formData } = this.state;
 
+    // check if every form field is valid
     Object.keys(formData).forEach((field) => {
       if(!this.fieldValid(field)){
         formValid = false;  
@@ -75,15 +78,27 @@ class Form extends React.Component {
   fieldValid = (field) => {
     let showError = false;
 
+    // check if field is empty
     if(this.state.formData[field].trim() === ''){
       showError = true;
     }  
 
+    // if it's an email, check if it's valid
+    if(field === 'email' && !this.validateEmail(this.state.formData[field])){
+      showError = true; 
+    }
+
+    // display error messages
     this.setState((state) => { 
       return state.showErrors[field] = showError;  
     });
 
     return !showError;
+  }
+
+  validateEmail(email) {
+    const re = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+    return re.test(String(email).toLowerCase());
   }
 
   render() {
@@ -134,7 +149,8 @@ class Form extends React.Component {
             <div className="checkbox-row">
               <input type="checkbox" name="remember-me" id="remember-me"/>
               <label for="remember-me">Remember me</label> 
-            </div>            
+            </div>      
+            <a href="" className="forgot-password">Forgot your password?</a> 
           </div>
         }
 

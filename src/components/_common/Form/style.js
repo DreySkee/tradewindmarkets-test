@@ -43,6 +43,8 @@ export default `
   }
 
   .form-bottom {
+    position: relative;
+
     label, p {
       color: #666;
       font-size: 12px;
@@ -53,6 +55,13 @@ export default `
     label {
       max-width: 96%;
       padding-left: 10px;
+    }
+
+    .forgot-password {
+      font-size: 12px;
+      position: absolute;
+      right: 0;
+      top: 0;
     }
 
     .checkbox-row {
