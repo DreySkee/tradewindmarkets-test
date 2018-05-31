@@ -1,17 +1,29 @@
 import iconFb from 'images/icon-fb.svg';
 import iconG from 'images/icon-g.svg';
 
+const mobileWidth = '450px';
+
 export default `
   margin: 20px 0;
 
   .button-holder {
     display: flex;  
+
+    @media(max-width: ${mobileWidth}){
+      display: block;
+    }
   }
   
   .social-login-btn {
     position: relative;
     width: 49%;
     margin-right: 2%;    
+
+    @media(max-width: ${mobileWidth}){
+      width: 100%;
+      margin-right: 0;
+      margin-bottom: 10px;
+    }
     
     &:last-child {
       margin-right: 0;

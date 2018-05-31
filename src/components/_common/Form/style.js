@@ -41,4 +41,28 @@ export default `
       color: #d0021b;
     }
   }
+
+  .form-bottom {
+    label, p {
+      color: #666;
+      font-size: 12px;
+      line-height: 16px;
+      margin-bottom: 20px;     
+    }
+
+    label {
+      max-width: 96%;
+      padding-left: 10px;
+    }
+
+    .checkbox-row {
+      display: flex;
+      justify-content: flex-start
+
+      input {
+        width: 20px;
+        height: 20px;
+      }
+    }
+  }
 `;

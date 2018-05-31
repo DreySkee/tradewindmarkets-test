@@ -17,7 +17,7 @@ injectGlobal`
   h2 {
     font-size: 24px;
     line-height: 27px;
-    margin-bottom: 6px;
+    margin-bottom: 10px;
     font-weight: 500;
   }
 

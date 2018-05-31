@@ -121,6 +121,23 @@ class Form extends React.Component {
           
         </div>
 
+        {this.props.signUpForm ?
+          <div className="form-bottom">
+            <div className="checkbox-row">
+              <input type="checkbox" name="newsletter" id="newsletter"/>
+              <label for="newsletter">You agree to receive occasional updates and special offers for The New York Times's products and services. You may opt out or <a href="">contact us</a> anytime.</label> 
+            </div>
+            <p>By creating an account, you agree to the <a href="">Terms of Service</a> and acknowledge our <a href="">Privacy Policy</a>.</p>
+         </div>
+        :
+          <div className="form-bottom">
+            <div className="checkbox-row">
+              <input type="checkbox" name="remember-me" id="remember-me"/>
+              <label for="remember-me">Remember me</label> 
+            </div>            
+          </div>
+        }
+
         <input type="submit" value={this.props.signUpForm ? "Sign Up" : "Log In"}  />
       </form>
     );
