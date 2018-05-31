@@ -6,6 +6,7 @@ export default `
     border-radius: 2px;
     border: 1px solid #e2e2e2;
     font-size: 14px;
+    -webkit-appearance: none;
     transition: .3s;
 
     &.error {

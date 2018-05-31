@@ -22,7 +22,7 @@ const SocialSignIn = ({...props}) => {
       <div className="button-holder">
         <div className="social-login-btn fb">
           <FacebookLogin
-            appId="1696343710450697"
+            appId="179758979396037"
             callback={handleResponse} 
             render={renderProps => (
               <button onClick={renderProps.onClick}>Log In with Facebook</button>
@@ -33,7 +33,7 @@ const SocialSignIn = ({...props}) => {
 
         <div className="social-login-btn g">
           <GoogleLogin
-            clientId="604768322641-n3b22nd988an2vnfo27amrv31jnardt2.apps.googleusercontent.com"
+            clientId="604768322641-8p6t5ht0tistmf0098ufbuo9535egbmg.apps.googleusercontent.com"
             buttonText="Log In with Google"
             onSuccess={handleResponse}
             onFailure={handleResponse}

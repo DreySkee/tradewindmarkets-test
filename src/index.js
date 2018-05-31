@@ -1,5 +1,5 @@
 // Dependencies
-import { BrowserRouter as Router, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Redirect } from 'react-router-dom';
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { Provider } from 'react-redux';
@@ -19,9 +19,10 @@ ReactDOM.render(
   <Provider store={store}>
 
     <Router>
-      <div class="page"> 
+      <div className="page"> 
         <Header />
-
+        
+        <Route exact  path="/" render={() => <Redirect to="/dashboard" />} />
         <Route exact  path="/signup"     component={SignUp} />
         <Route exact  path="/login"      component={LogIn} />
         <PrivateRoute path="/dashboard"  component={Dashboard} />
