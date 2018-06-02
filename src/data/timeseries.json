@@ -1,0 +1,5002 @@
+[
+ {
+   "Time": 1,
+   "CreditPool": 15,
+   "Util1": 44493480
+ },
+ {
+   "Time": 2,
+   "CreditPool": 116,
+   "Util1": 46832127
+ },
+ {
+   "Time": 3,
+   "CreditPool": 5,
+   "Util1": 247728202
+ },
+ {
+   "Time": 4,
+   "CreditPool": 73,
+   "Util1": 39878041
+ },
+ {
+   "Time": 5,
+   "CreditPool": 82,
+   "Util1": 0
+ },
+ {
+   "Time": 6,
+   "CreditPool": 15,
+   "Util1": 74610745
+ },
+ {
+   "Time": 7,
+   "CreditPool": 40,
+   "Util1": 24614128
+ },
+ {
+   "Time": 8,
+   "CreditPool": 43,
+   "Util1": 4770439
+ },
+ {
+   "Time": 9,
+   "CreditPool": 81,
+   "Util1": 49111205
+ },
+ {
+   "Time": 10,
+   "CreditPool": 120,
+   "Util1": 0
+ },
+ {
+   "Time": 11,
+   "CreditPool": 86,
+   "Util1": 31399436
+ },
+ {
+   "Time": 12,
+   "CreditPool": 13,
+   "Util1": 62446663
+ },
+ {
+   "Time": 13,
+   "CreditPool": 64,
+   "Util1": 11999730
+ },
+ {
+   "Time": 14,
+   "CreditPool": 11,
+   "Util1": 7967252
+ },
+ {
+   "Time": 15,
+   "CreditPool": 133,
+   "Util1": 12553560
+ },
+ {
+   "Time": 16,
+   "CreditPool": 83,
+   "Util1": 29835557
+ },
+ {
+   "Time": 17,
+   "CreditPool": 128,
+   "Util1": 33893571
+ },
+ {
+   "Time": 18,
+   "CreditPool": 126,
+   "Util1": 15457863
+ },
+ {
+   "Time": 19,
+   "CreditPool": 112,
+   "Util1": 48657270
+ },
+ {
+   "Time": 20,
+   "CreditPool": 51,
+   "Util1": 5367392
+ },
+ {
+   "Time": 21,
+   "CreditPool": 49,
+   "Util1": 24065045
+ },
+ {
+   "Time": 22,
+   "CreditPool": 51,
+   "Util1": 48929335
+ },
+ {
+   "Time": 23,
+   "CreditPool": 111,
+   "Util1": 53071982
+ },
+ {
+   "Time": 24,
+   "CreditPool": 4,
+   "Util1": 140018364
+ },
+ {
+   "Time": 25,
+   "CreditPool": 84,
+   "Util1": 54421954
+ },
+ {
+   "Time": 26,
+   "CreditPool": 10,
+   "Util1": 7936380
+ },
+ {
+   "Time": 27,
+   "CreditPool": 65,
+   "Util1": 27900232
+ },
+ {
+   "Time": 28,
+   "CreditPool": 27,
+   "Util1": 32247586
+ },
+ {
+   "Time": 29,
+   "CreditPool": 73,
+   "Util1": 1602066
+ },
+ {
+   "Time": 30,
+   "CreditPool": 20,
+   "Util1": 40210997
+ },
+ {
+   "Time": 31,
+   "CreditPool": 14,
+   "Util1": 78907657
+ },
+ {
+   "Time": 32,
+   "CreditPool": 7,
+   "Util1": 101590499
+ },
+ {
+   "Time": 33,
+   "CreditPool": 130,
+   "Util1": 59730570
+ },
+ {
+   "Time": 34,
+   "CreditPool": 81,
+   "Util1": 52017961
+ },
+ {
+   "Time": 35,
+   "CreditPool": 121,
+   "Util1": 30766152
+ },
+ {
+   "Time": 36,
+   "CreditPool": 125,
+   "Util1": 0
+ },
+ {
+   "Time": 37,
+   "CreditPool": 67,
+   "Util1": 14614489
+ },
+ {
+   "Time": 38,
+   "CreditPool": 121,
+   "Util1": 10118017
+ },
+ {
+   "Time": 39,
+   "CreditPool": 72,
+   "Util1": 711954
+ },
+ {
+   "Time": 40,
+   "CreditPool": 131,
+   "Util1": 42464990
+ },
+ {
+   "Time": 41,
+   "CreditPool": 65,
+   "Util1": 20427245
+ },
+ {
+   "Time": 42,
+   "CreditPool": 78,
+   "Util1": 5932764
+ },
+ {
+   "Time": 43,
+   "CreditPool": 60,
+   "Util1": 48877334
+ },
+ {
+   "Time": 44,
+   "CreditPool": 26,
+   "Util1": 35274491
+ },
+ {
+   "Time": 45,
+   "CreditPool": 61,
+   "Util1": 0
+ },
+ {
+   "Time": 46,
+   "CreditPool": 9,
+   "Util1": 9649272
+ },
+ {
+   "Time": 47,
+   "CreditPool": 16,
+   "Util1": 101176625
+ },
+ {
+   "Time": 48,
+   "CreditPool": 107,
+   "Util1": 1568557
+ },
+ {
+   "Time": 49,
+   "CreditPool": 131,
+   "Util1": 25566761
+ },
+ {
+   "Time": 50,
+   "CreditPool": 117,
+   "Util1": 51651473
+ },
+ {
+   "Time": 51,
+   "CreditPool": 59,
+   "Util1": 31277147
+ },
+ {
+   "Time": 52,
+   "CreditPool": 77,
+   "Util1": 9402567
+ },
+ {
+   "Time": 53,
+   "CreditPool": 75,
+   "Util1": 17154472
+ },
+ {
+   "Time": 54,
+   "CreditPool": 11,
+   "Util1": 3279709
+ },
+ {
+   "Time": 55,
+   "CreditPool": 49,
+   "Util1": 50535557
+ },
+ {
+   "Time": 56,
+   "CreditPool": 26,
+   "Util1": 48368659
+ },
+ {
+   "Time": 57,
+   "CreditPool": 64,
+   "Util1": 44184526
+ },
+ {
+   "Time": 58,
+   "CreditPool": 48,
+   "Util1": 44188076
+ },
+ {
+   "Time": 59,
+   "CreditPool": 47,
+   "Util1": 21912728
+ },
+ {
+   "Time": 60,
+   "CreditPool": 50,
+   "Util1": 18649167
+ },
+ {
+   "Time": 61,
+   "CreditPool": 107,
+   "Util1": 37119638
+ },
+ {
+   "Time": 62,
+   "CreditPool": 119,
+   "Util1": 57430639
+ },
+ {
+   "Time": 63,
+   "CreditPool": 11,
+   "Util1": 92763559
+ },
+ {
+   "Time": 64,
+   "CreditPool": 47,
+   "Util1": 8127314
+ },
+ {
+   "Time": 65,
+   "CreditPool": 79,
+   "Util1": 470179
+ },
+ {
+   "Time": 66,
+   "CreditPool": 122,
+   "Util1": 0
+ },
+ {
+   "Time": 67,
+   "CreditPool": 107,
+   "Util1": 35732543
+ },
+ {
+   "Time": 68,
+   "CreditPool": 119,
+   "Util1": 56830068
+ },
+ {
+   "Time": 69,
+   "CreditPool": 112,
+   "Util1": 38178435
+ },
+ {
+   "Time": 70,
+   "CreditPool": 13,
+   "Util1": 84799155
+ },
+ {
+   "Time": 71,
+   "CreditPool": 128,
+   "Util1": 867681
+ },
+ {
+   "Time": 72,
+   "CreditPool": 116,
+   "Util1": 11209012
+ },
+ {
+   "Time": 73,
+   "CreditPool": 40,
+   "Util1": 25162123
+ },
+ {
+   "Time": 74,
+   "CreditPool": 120,
+   "Util1": 0
+ },
+ {
+   "Time": 75,
+   "CreditPool": 79,
+   "Util1": 40326661
+ },
+ {
+   "Time": 76,
+   "CreditPool": 74,
+   "Util1": 11413335
+ },
+ {
+   "Time": 77,
+   "CreditPool": 66,
+   "Util1": 33913432
+ },
+ {
+   "Time": 78,
+   "CreditPool": 78,
+   "Util1": 1635207
+ },
+ {
+   "Time": 79,
+   "CreditPool": 59,
+   "Util1": 25848077
+ },
+ {
+   "Time": 80,
+   "CreditPool": 59,
+   "Util1": 56396627
+ },
+ {
+   "Time": 81,
+   "CreditPool": 121,
+   "Util1": 58903234
+ },
+ {
+   "Time": 82,
+   "CreditPool": 27,
+   "Util1": 11591829
+ },
+ {
+   "Time": 83,
+   "CreditPool": 111,
+   "Util1": 50115657
+ },
+ {
+   "Time": 84,
+   "CreditPool": 41,
+   "Util1": 7871049
+ },
+ {
+   "Time": 85,
+   "CreditPool": 7,
+   "Util1": 292545159
+ },
+ {
+   "Time": 86,
+   "CreditPool": 42,
+   "Util1": 20832180
+ },
+ {
+   "Time": 87,
+   "CreditPool": 57,
+   "Util1": 49230165
+ },
+ {
+   "Time": 88,
+   "CreditPool": 25,
+   "Util1": 27883524
+ },
+ {
+   "Time": 89,
+   "CreditPool": 43,
+   "Util1": 26715498
+ },
+ {
+   "Time": 90,
+   "CreditPool": 67,
+   "Util1": 16642773
+ },
+ {
+   "Time": 91,
+   "CreditPool": 73,
+   "Util1": 15773220
+ },
+ {
+   "Time": 92,
+   "CreditPool": 32,
+   "Util1": 29906248
+ },
+ {
+   "Time": 93,
+   "CreditPool": 74,
+   "Util1": 6259752
+ },
+ {
+   "Time": 94,
+   "CreditPool": 8,
+   "Util1": 29779074
+ },
+ {
+   "Time": 95,
+   "CreditPool": 82,
+   "Util1": 0
+ },
+ {
+   "Time": 96,
+   "CreditPool": 120,
+   "Util1": 0
+ },
+ {
+   "Time": 97,
+   "CreditPool": 79,
+   "Util1": 59336565
+ },
+ {
+   "Time": 98,
+   "CreditPool": 31,
+   "Util1": 1043930
+ },
+ {
+   "Time": 99,
+   "CreditPool": 20,
+   "Util1": 25805598
+ },
+ {
+   "Time": 100,
+   "CreditPool": 6,
+   "Util1": 4555115
+ },
+ {
+   "Time": 101,
+   "CreditPool": 103,
+   "Util1": 0
+ },
+ {
+   "Time": 102,
+   "CreditPool": 53,
+   "Util1": 0
+ },
+ {
+   "Time": 103,
+   "CreditPool": 103,
+   "Util1": 0
+ },
+ {
+   "Time": 104,
+   "CreditPool": 86,
+   "Util1": 43808351
+ },
+ {
+   "Time": 105,
+   "CreditPool": 124,
+   "Util1": 0
+ },
+ {
+   "Time": 106,
+   "CreditPool": 109,
+   "Util1": 44499356
+ },
+ {
+   "Time": 107,
+   "CreditPool": 124,
+   "Util1": 0
+ },
+ {
+   "Time": 108,
+   "CreditPool": 25,
+   "Util1": 14803387
+ },
+ {
+   "Time": 109,
+   "CreditPool": 19,
+   "Util1": 43491846
+ },
+ {
+   "Time": 110,
+   "CreditPool": 19,
+   "Util1": 33114604
+ },
+ {
+   "Time": 111,
+   "CreditPool": 116,
+   "Util1": 57750879
+ },
+ {
+   "Time": 112,
+   "CreditPool": 110,
+   "Util1": 19235293
+ },
+ {
+   "Time": 113,
+   "CreditPool": 67,
+   "Util1": 25712684
+ },
+ {
+   "Time": 114,
+   "CreditPool": 6,
+   "Util1": 77116922
+ },
+ {
+   "Time": 115,
+   "CreditPool": 55,
+   "Util1": 0
+ },
+ {
+   "Time": 116,
+   "CreditPool": 127,
+   "Util1": 12162541
+ },
+ {
+   "Time": 117,
+   "CreditPool": 130,
+   "Util1": 36416894
+ },
+ {
+   "Time": 118,
+   "CreditPool": 105,
+   "Util1": 0
+ },
+ {
+   "Time": 119,
+   "CreditPool": 133,
+   "Util1": 58952443
+ },
+ {
+   "Time": 120,
+   "CreditPool": 84,
+   "Util1": 17973277
+ },
+ {
+   "Time": 121,
+   "CreditPool": 20,
+   "Util1": 50920287
+ },
+ {
+   "Time": 122,
+   "CreditPool": 114,
+   "Util1": 0
+ },
+ {
+   "Time": 123,
+   "CreditPool": 112,
+   "Util1": 30511013
+ },
+ {
+   "Time": 124,
+   "CreditPool": 84,
+   "Util1": 48175478
+ },
+ {
+   "Time": 125,
+   "CreditPool": 83,
+   "Util1": 40734983
+ },
+ {
+   "Time": 126,
+   "CreditPool": 32,
+   "Util1": 40385401
+ },
+ {
+   "Time": 127,
+   "CreditPool": 44,
+   "Util1": 40707792
+ },
+ {
+   "Time": 128,
+   "CreditPool": 125,
+   "Util1": 0
+ },
+ {
+   "Time": 129,
+   "CreditPool": 82,
+   "Util1": 0
+ },
+ {
+   "Time": 130,
+   "CreditPool": 3,
+   "Util1": 58695384
+ },
+ {
+   "Time": 131,
+   "CreditPool": 84,
+   "Util1": 13885207
+ },
+ {
+   "Time": 132,
+   "CreditPool": 67,
+   "Util1": 38167264
+ },
+ {
+   "Time": 133,
+   "CreditPool": 124,
+   "Util1": 0
+ },
+ {
+   "Time": 134,
+   "CreditPool": 77,
+   "Util1": 20506927
+ },
+ {
+   "Time": 135,
+   "CreditPool": 16,
+   "Util1": 69327706
+ },
+ {
+   "Time": 136,
+   "CreditPool": 114,
+   "Util1": 0
+ },
+ {
+   "Time": 137,
+   "CreditPool": 124,
+   "Util1": 0
+ },
+ {
+   "Time": 138,
+   "CreditPool": 10,
+   "Util1": 70103448
+ },
+ {
+   "Time": 139,
+   "CreditPool": 80,
+   "Util1": 21079810
+ },
+ {
+   "Time": 140,
+   "CreditPool": 102,
+   "Util1": 2783662
+ },
+ {
+   "Time": 141,
+   "CreditPool": 5,
+   "Util1": 215856559
+ },
+ {
+   "Time": 142,
+   "CreditPool": 120,
+   "Util1": 0
+ },
+ {
+   "Time": 143,
+   "CreditPool": 50,
+   "Util1": 20295773
+ },
+ {
+   "Time": 144,
+   "CreditPool": 22,
+   "Util1": 8801911
+ },
+ {
+   "Time": 145,
+   "CreditPool": 13,
+   "Util1": 111435950
+ },
+ {
+   "Time": 146,
+   "CreditPool": 44,
+   "Util1": 47696033
+ },
+ {
+   "Time": 147,
+   "CreditPool": 50,
+   "Util1": 25055229
+ },
+ {
+   "Time": 148,
+   "CreditPool": 115,
+   "Util1": 233925360
+ },
+ {
+   "Time": 149,
+   "CreditPool": 65,
+   "Util1": 3419324
+ },
+ {
+   "Time": 150,
+   "CreditPool": 103,
+   "Util1": 0
+ },
+ {
+   "Time": 151,
+   "CreditPool": 54,
+   "Util1": 43355266
+ },
+ {
+   "Time": 152,
+   "CreditPool": 47,
+   "Util1": 8636267
+ },
+ {
+   "Time": 153,
+   "CreditPool": 120,
+   "Util1": 0
+ },
+ {
+   "Time": 154,
+   "CreditPool": 61,
+   "Util1": 0
+ },
+ {
+   "Time": 155,
+   "CreditPool": 79,
+   "Util1": 53074887
+ },
+ {
+   "Time": 156,
+   "CreditPool": 76,
+   "Util1": 52480722
+ },
+ {
+   "Time": 157,
+   "CreditPool": 10,
+   "Util1": 157838999
+ },
+ {
+   "Time": 158,
+   "CreditPool": 9,
+   "Util1": 9352190
+ },
+ {
+   "Time": 159,
+   "CreditPool": 49,
+   "Util1": 55628758
+ },
+ {
+   "Time": 160,
+   "CreditPool": 85,
+   "Util1": 267561
+ },
+ {
+   "Time": 161,
+   "CreditPool": 14,
+   "Util1": 118466313
+ },
+ {
+   "Time": 162,
+   "CreditPool": 79,
+   "Util1": 1664445
+ },
+ {
+   "Time": 163,
+   "CreditPool": 65,
+   "Util1": 51800677
+ },
+ {
+   "Time": 164,
+   "CreditPool": 62,
+   "Util1": 0
+ },
+ {
+   "Time": 165,
+   "CreditPool": 118,
+   "Util1": 9218626
+ },
+ {
+   "Time": 166,
+   "CreditPool": 4,
+   "Util1": 160290058
+ },
+ {
+   "Time": 167,
+   "CreditPool": 64,
+   "Util1": 46134595
+ },
+ {
+   "Time": 168,
+   "CreditPool": 41,
+   "Util1": 48035234
+ },
+ {
+   "Time": 169,
+   "CreditPool": 14,
+   "Util1": 46554950
+ },
+ {
+   "Time": 170,
+   "CreditPool": 80,
+   "Util1": 19386928
+ },
+ {
+   "Time": 171,
+   "CreditPool": 83,
+   "Util1": 31228703
+ },
+ {
+   "Time": 172,
+   "CreditPool": 7,
+   "Util1": 294315135
+ },
+ {
+   "Time": 173,
+   "CreditPool": 53,
+   "Util1": 0
+ },
+ {
+   "Time": 174,
+   "CreditPool": 112,
+   "Util1": 19677585
+ },
+ {
+   "Time": 175,
+   "CreditPool": 73,
+   "Util1": 37821332
+ },
+ {
+   "Time": 176,
+   "CreditPool": 112,
+   "Util1": 1507071
+ },
+ {
+   "Time": 177,
+   "CreditPool": 15,
+   "Util1": 80403962
+ },
+ {
+   "Time": 178,
+   "CreditPool": 22,
+   "Util1": 3041550
+ },
+ {
+   "Time": 179,
+   "CreditPool": 67,
+   "Util1": 43608069
+ },
+ {
+   "Time": 180,
+   "CreditPool": 72,
+   "Util1": 21179380
+ },
+ {
+   "Time": 181,
+   "CreditPool": 104,
+   "Util1": 0
+ },
+ {
+   "Time": 182,
+   "CreditPool": 114,
+   "Util1": 0
+ },
+ {
+   "Time": 183,
+   "CreditPool": 126,
+   "Util1": 55663856
+ },
+ {
+   "Time": 184,
+   "CreditPool": 77,
+   "Util1": 54152262
+ },
+ {
+   "Time": 185,
+   "CreditPool": 47,
+   "Util1": 47918286
+ },
+ {
+   "Time": 186,
+   "CreditPool": 0,
+   "Util1": 3384815
+ },
+ {
+   "Time": 187,
+   "CreditPool": 129,
+   "Util1": 47200423
+ },
+ {
+   "Time": 188,
+   "CreditPool": 110,
+   "Util1": 29114130
+ },
+ {
+   "Time": 189,
+   "CreditPool": 83,
+   "Util1": 8364680
+ },
+ {
+   "Time": 190,
+   "CreditPool": 61,
+   "Util1": 0
+ },
+ {
+   "Time": 191,
+   "CreditPool": 57,
+   "Util1": 5851395
+ },
+ {
+   "Time": 192,
+   "CreditPool": 102,
+   "Util1": 19060654
+ },
+ {
+   "Time": 193,
+   "CreditPool": 71,
+   "Util1": 0
+ },
+ {
+   "Time": 194,
+   "CreditPool": 52,
+   "Util1": 8762173
+ },
+ {
+   "Time": 195,
+   "CreditPool": 47,
+   "Util1": 21072235
+ },
+ {
+   "Time": 196,
+   "CreditPool": 77,
+   "Util1": 21512927
+ },
+ {
+   "Time": 197,
+   "CreditPool": 66,
+   "Util1": 39095530
+ },
+ {
+   "Time": 198,
+   "CreditPool": 125,
+   "Util1": 0
+ },
+ {
+   "Time": 199,
+   "CreditPool": 66,
+   "Util1": 2916305
+ },
+ {
+   "Time": 200,
+   "CreditPool": 108,
+   "Util1": 32621166
+ },
+ {
+   "Time": 201,
+   "CreditPool": 78,
+   "Util1": 53555434
+ },
+ {
+   "Time": 202,
+   "CreditPool": 63,
+   "Util1": 3962775
+ },
+ {
+   "Time": 203,
+   "CreditPool": 82,
+   "Util1": 0
+ },
+ {
+   "Time": 204,
+   "CreditPool": 70,
+   "Util1": 0
+ },
+ {
+   "Time": 205,
+   "CreditPool": 79,
+   "Util1": 41795003
+ },
+ {
+   "Time": 206,
+   "CreditPool": 50,
+   "Util1": 41844268
+ },
+ {
+   "Time": 207,
+   "CreditPool": 16,
+   "Util1": 147215230
+ },
+ {
+   "Time": 208,
+   "CreditPool": 64,
+   "Util1": 22237353
+ },
+ {
+   "Time": 209,
+   "CreditPool": 3,
+   "Util1": 62674486
+ },
+ {
+   "Time": 210,
+   "CreditPool": 51,
+   "Util1": 38026886
+ },
+ {
+   "Time": 211,
+   "CreditPool": 111,
+   "Util1": 9696782
+ },
+ {
+   "Time": 212,
+   "CreditPool": 3,
+   "Util1": 109984537
+ },
+ {
+   "Time": 213,
+   "CreditPool": 83,
+   "Util1": 30670215
+ },
+ {
+   "Time": 214,
+   "CreditPool": 5,
+   "Util1": 123809708
+ },
+ {
+   "Time": 215,
+   "CreditPool": 45,
+   "Util1": 14444971
+ },
+ {
+   "Time": 216,
+   "CreditPool": 74,
+   "Util1": 51596998
+ },
+ {
+   "Time": 217,
+   "CreditPool": 101,
+   "Util1": 10338243
+ },
+ {
+   "Time": 218,
+   "CreditPool": 18,
+   "Util1": 80134123
+ },
+ {
+   "Time": 219,
+   "CreditPool": 55,
+   "Util1": 0
+ },
+ {
+   "Time": 220,
+   "CreditPool": 85,
+   "Util1": 35045335
+ },
+ {
+   "Time": 221,
+   "CreditPool": 128,
+   "Util1": 42084902
+ },
+ {
+   "Time": 222,
+   "CreditPool": 118,
+   "Util1": 4205131
+ },
+ {
+   "Time": 223,
+   "CreditPool": 76,
+   "Util1": 1133389
+ },
+ {
+   "Time": 224,
+   "CreditPool": 19,
+   "Util1": 43688228
+ },
+ {
+   "Time": 225,
+   "CreditPool": 82,
+   "Util1": 0
+ },
+ {
+   "Time": 226,
+   "CreditPool": 60,
+   "Util1": 4447298
+ },
+ {
+   "Time": 227,
+   "CreditPool": 56,
+   "Util1": 0
+ },
+ {
+   "Time": 228,
+   "CreditPool": 61,
+   "Util1": 0
+ },
+ {
+   "Time": 229,
+   "CreditPool": 9,
+   "Util1": 9081271
+ },
+ {
+   "Time": 230,
+   "CreditPool": 125,
+   "Util1": 0
+ },
+ {
+   "Time": 231,
+   "CreditPool": 70,
+   "Util1": 0
+ },
+ {
+   "Time": 232,
+   "CreditPool": 104,
+   "Util1": 0
+ },
+ {
+   "Time": 233,
+   "CreditPool": 47,
+   "Util1": 19846946
+ },
+ {
+   "Time": 234,
+   "CreditPool": 56,
+   "Util1": 0
+ },
+ {
+   "Time": 235,
+   "CreditPool": 5,
+   "Util1": 69345588
+ },
+ {
+   "Time": 236,
+   "CreditPool": 121,
+   "Util1": 39701432
+ },
+ {
+   "Time": 237,
+   "CreditPool": 60,
+   "Util1": 29505170
+ },
+ {
+   "Time": 238,
+   "CreditPool": 71,
+   "Util1": 0
+ },
+ {
+   "Time": 239,
+   "CreditPool": 41,
+   "Util1": 56875577
+ },
+ {
+   "Time": 240,
+   "CreditPool": 127,
+   "Util1": 31067620
+ },
+ {
+   "Time": 241,
+   "CreditPool": 112,
+   "Util1": 18404615
+ },
+ {
+   "Time": 242,
+   "CreditPool": 47,
+   "Util1": 10079116
+ },
+ {
+   "Time": 243,
+   "CreditPool": 33,
+   "Util1": 25861685
+ },
+ {
+   "Time": 244,
+   "CreditPool": 16,
+   "Util1": 101650008
+ },
+ {
+   "Time": 245,
+   "CreditPool": 5,
+   "Util1": 298924533
+ },
+ {
+   "Time": 246,
+   "CreditPool": 129,
+   "Util1": 49973212
+ },
+ {
+   "Time": 247,
+   "CreditPool": 105,
+   "Util1": 0
+ },
+ {
+   "Time": 248,
+   "CreditPool": 26,
+   "Util1": 47352168
+ },
+ {
+   "Time": 249,
+   "CreditPool": 20,
+   "Util1": 16849139
+ },
+ {
+   "Time": 250,
+   "CreditPool": 20,
+   "Util1": 13964141
+ },
+ {
+   "Time": 251,
+   "CreditPool": 42,
+   "Util1": 53676457
+ },
+ {
+   "Time": 252,
+   "CreditPool": 15,
+   "Util1": 90292374
+ },
+ {
+   "Time": 253,
+   "CreditPool": 84,
+   "Util1": 6244975
+ },
+ {
+   "Time": 254,
+   "CreditPool": 108,
+   "Util1": 51075730
+ },
+ {
+   "Time": 255,
+   "CreditPool": 20,
+   "Util1": 14234121
+ },
+ {
+   "Time": 256,
+   "CreditPool": 44,
+   "Util1": 50766750
+ },
+ {
+   "Time": 257,
+   "CreditPool": 26,
+   "Util1": 56461179
+ },
+ {
+   "Time": 258,
+   "CreditPool": 130,
+   "Util1": 15861681
+ },
+ {
+   "Time": 259,
+   "CreditPool": 42,
+   "Util1": 33221340
+ },
+ {
+   "Time": 260,
+   "CreditPool": 85,
+   "Util1": 8450358
+ },
+ {
+   "Time": 261,
+   "CreditPool": 33,
+   "Util1": 41564752
+ },
+ {
+   "Time": 262,
+   "CreditPool": 43,
+   "Util1": 53677100
+ },
+ {
+   "Time": 263,
+   "CreditPool": 115,
+   "Util1": 228910773
+ },
+ {
+   "Time": 264,
+   "CreditPool": 48,
+   "Util1": 26767048
+ },
+ {
+   "Time": 265,
+   "CreditPool": 128,
+   "Util1": 36534537
+ },
+ {
+   "Time": 266,
+   "CreditPool": 129,
+   "Util1": 33252802
+ },
+ {
+   "Time": 267,
+   "CreditPool": 47,
+   "Util1": 2992432
+ },
+ {
+   "Time": 268,
+   "CreditPool": 115,
+   "Util1": 287905034
+ },
+ {
+   "Time": 269,
+   "CreditPool": 34,
+   "Util1": 47107255
+ },
+ {
+   "Time": 270,
+   "CreditPool": 84,
+   "Util1": 16808801
+ },
+ {
+   "Time": 271,
+   "CreditPool": 14,
+   "Util1": 41071860
+ },
+ {
+   "Time": 272,
+   "CreditPool": 85,
+   "Util1": 21357811
+ },
+ {
+   "Time": 273,
+   "CreditPool": 118,
+   "Util1": 27180898
+ },
+ {
+   "Time": 274,
+   "CreditPool": 67,
+   "Util1": 24216790
+ },
+ {
+   "Time": 275,
+   "CreditPool": 114,
+   "Util1": 0
+ },
+ {
+   "Time": 276,
+   "CreditPool": 105,
+   "Util1": 0
+ },
+ {
+   "Time": 277,
+   "CreditPool": 49,
+   "Util1": 11744973
+ },
+ {
+   "Time": 278,
+   "CreditPool": 63,
+   "Util1": 15761246
+ },
+ {
+   "Time": 279,
+   "CreditPool": 34,
+   "Util1": 13758938
+ },
+ {
+   "Time": 280,
+   "CreditPool": 114,
+   "Util1": 0
+ },
+ {
+   "Time": 281,
+   "CreditPool": 70,
+   "Util1": 0
+ },
+ {
+   "Time": 282,
+   "CreditPool": 7,
+   "Util1": 76890155
+ },
+ {
+   "Time": 283,
+   "CreditPool": 32,
+   "Util1": 40421514
+ },
+ {
+   "Time": 284,
+   "CreditPool": 22,
+   "Util1": 29606518
+ },
+ {
+   "Time": 285,
+   "CreditPool": 15,
+   "Util1": 31217047
+ },
+ {
+   "Time": 286,
+   "CreditPool": 9,
+   "Util1": 7353922
+ },
+ {
+   "Time": 287,
+   "CreditPool": 104,
+   "Util1": 0
+ },
+ {
+   "Time": 288,
+   "CreditPool": 86,
+   "Util1": 11454662
+ },
+ {
+   "Time": 289,
+   "CreditPool": 118,
+   "Util1": 4703724
+ },
+ {
+   "Time": 290,
+   "CreditPool": 65,
+   "Util1": 46278812
+ },
+ {
+   "Time": 291,
+   "CreditPool": 106,
+   "Util1": 0
+ },
+ {
+   "Time": 292,
+   "CreditPool": 70,
+   "Util1": 0
+ },
+ {
+   "Time": 293,
+   "CreditPool": 126,
+   "Util1": 17626174
+ },
+ {
+   "Time": 294,
+   "CreditPool": 25,
+   "Util1": 42649243
+ },
+ {
+   "Time": 295,
+   "CreditPool": 116,
+   "Util1": 51700077
+ },
+ {
+   "Time": 296,
+   "CreditPool": 13,
+   "Util1": 146145749
+ },
+ {
+   "Time": 297,
+   "CreditPool": 116,
+   "Util1": 45407016
+ },
+ {
+   "Time": 298,
+   "CreditPool": 10,
+   "Util1": 146434512
+ },
+ {
+   "Time": 299,
+   "CreditPool": 102,
+   "Util1": 46900804
+ },
+ {
+   "Time": 300,
+   "CreditPool": 81,
+   "Util1": 21637644
+ },
+ {
+   "Time": 301,
+   "CreditPool": 123,
+   "Util1": 49008026
+ },
+ {
+   "Time": 302,
+   "CreditPool": 48,
+   "Util1": 16413724
+ },
+ {
+   "Time": 303,
+   "CreditPool": 4,
+   "Util1": 253942665
+ },
+ {
+   "Time": 304,
+   "CreditPool": 11,
+   "Util1": 93146574
+ },
+ {
+   "Time": 305,
+   "CreditPool": 41,
+   "Util1": 10817181
+ },
+ {
+   "Time": 306,
+   "CreditPool": 16,
+   "Util1": 125497011
+ },
+ {
+   "Time": 307,
+   "CreditPool": 54,
+   "Util1": 16422663
+ },
+ {
+   "Time": 308,
+   "CreditPool": 10,
+   "Util1": 160965564
+ },
+ {
+   "Time": 309,
+   "CreditPool": 54,
+   "Util1": 16782472
+ },
+ {
+   "Time": 310,
+   "CreditPool": 108,
+   "Util1": 16694471
+ },
+ {
+   "Time": 311,
+   "CreditPool": 112,
+   "Util1": 46152722
+ },
+ {
+   "Time": 312,
+   "CreditPool": 103,
+   "Util1": 0
+ },
+ {
+   "Time": 313,
+   "CreditPool": 47,
+   "Util1": 11004020
+ },
+ {
+   "Time": 314,
+   "CreditPool": 58,
+   "Util1": 29212912
+ },
+ {
+   "Time": 315,
+   "CreditPool": 15,
+   "Util1": 60015271
+ },
+ {
+   "Time": 316,
+   "CreditPool": 3,
+   "Util1": 6289510
+ },
+ {
+   "Time": 317,
+   "CreditPool": 43,
+   "Util1": 59817688
+ },
+ {
+   "Time": 318,
+   "CreditPool": 106,
+   "Util1": 0
+ },
+ {
+   "Time": 319,
+   "CreditPool": 63,
+   "Util1": 20725460
+ },
+ {
+   "Time": 320,
+   "CreditPool": 66,
+   "Util1": 46848934
+ },
+ {
+   "Time": 321,
+   "CreditPool": 7,
+   "Util1": 218003162
+ },
+ {
+   "Time": 322,
+   "CreditPool": 101,
+   "Util1": 46771623
+ },
+ {
+   "Time": 323,
+   "CreditPool": 5,
+   "Util1": 81275824
+ },
+ {
+   "Time": 324,
+   "CreditPool": 25,
+   "Util1": 7903538
+ },
+ {
+   "Time": 325,
+   "CreditPool": 109,
+   "Util1": 3870772
+ },
+ {
+   "Time": 326,
+   "CreditPool": 73,
+   "Util1": 2412845
+ },
+ {
+   "Time": 327,
+   "CreditPool": 110,
+   "Util1": 11007137
+ },
+ {
+   "Time": 328,
+   "CreditPool": 31,
+   "Util1": 7420006
+ },
+ {
+   "Time": 329,
+   "CreditPool": 58,
+   "Util1": 41915907
+ },
+ {
+   "Time": 330,
+   "CreditPool": 22,
+   "Util1": 9622195
+ },
+ {
+   "Time": 331,
+   "CreditPool": 72,
+   "Util1": 45578572
+ },
+ {
+   "Time": 332,
+   "CreditPool": 62,
+   "Util1": 0
+ },
+ {
+   "Time": 333,
+   "CreditPool": 125,
+   "Util1": 0
+ },
+ {
+   "Time": 334,
+   "CreditPool": 109,
+   "Util1": 32446526
+ },
+ {
+   "Time": 335,
+   "CreditPool": 107,
+   "Util1": 32122850
+ },
+ {
+   "Time": 336,
+   "CreditPool": 77,
+   "Util1": 18315435
+ },
+ {
+   "Time": 337,
+   "CreditPool": 63,
+   "Util1": 58887633
+ },
+ {
+   "Time": 338,
+   "CreditPool": 83,
+   "Util1": 54026140
+ },
+ {
+   "Time": 339,
+   "CreditPool": 41,
+   "Util1": 16507988
+ },
+ {
+   "Time": 340,
+   "CreditPool": 64,
+   "Util1": 7416527
+ },
+ {
+   "Time": 341,
+   "CreditPool": 63,
+   "Util1": 52342141
+ },
+ {
+   "Time": 342,
+   "CreditPool": 123,
+   "Util1": 27751962
+ },
+ {
+   "Time": 343,
+   "CreditPool": 27,
+   "Util1": 56208033
+ },
+ {
+   "Time": 344,
+   "CreditPool": 31,
+   "Util1": 38184989
+ },
+ {
+   "Time": 345,
+   "CreditPool": 73,
+   "Util1": 39642506
+ },
+ {
+   "Time": 346,
+   "CreditPool": 7,
+   "Util1": 247713721
+ },
+ {
+   "Time": 347,
+   "CreditPool": 80,
+   "Util1": 44529597
+ },
+ {
+   "Time": 348,
+   "CreditPool": 116,
+   "Util1": 40177662
+ },
+ {
+   "Time": 349,
+   "CreditPool": 74,
+   "Util1": 2609226
+ },
+ {
+   "Time": 350,
+   "CreditPool": 21,
+   "Util1": 47976367
+ },
+ {
+   "Time": 351,
+   "CreditPool": 14,
+   "Util1": 128181230
+ },
+ {
+   "Time": 352,
+   "CreditPool": 10,
+   "Util1": 6015901
+ },
+ {
+   "Time": 353,
+   "CreditPool": 5,
+   "Util1": 79819482
+ },
+ {
+   "Time": 354,
+   "CreditPool": 131,
+   "Util1": 49778271
+ },
+ {
+   "Time": 355,
+   "CreditPool": 108,
+   "Util1": 22112108
+ },
+ {
+   "Time": 356,
+   "CreditPool": 14,
+   "Util1": 85668331
+ },
+ {
+   "Time": 357,
+   "CreditPool": 11,
+   "Util1": 128444770
+ },
+ {
+   "Time": 358,
+   "CreditPool": 15,
+   "Util1": 45082759
+ },
+ {
+   "Time": 359,
+   "CreditPool": 40,
+   "Util1": 51542298
+ },
+ {
+   "Time": 360,
+   "CreditPool": 129,
+   "Util1": 15856795
+ },
+ {
+   "Time": 361,
+   "CreditPool": 43,
+   "Util1": 17398439
+ },
+ {
+   "Time": 362,
+   "CreditPool": 67,
+   "Util1": 7859201
+ },
+ {
+   "Time": 363,
+   "CreditPool": 61,
+   "Util1": 0
+ },
+ {
+   "Time": 364,
+   "CreditPool": 101,
+   "Util1": 31306164
+ },
+ {
+   "Time": 365,
+   "CreditPool": 58,
+   "Util1": 167116
+ },
+ {
+   "Time": 366,
+   "CreditPool": 118,
+   "Util1": 21419743
+ },
+ {
+   "Time": 367,
+   "CreditPool": 130,
+   "Util1": 45471086
+ },
+ {
+   "Time": 368,
+   "CreditPool": 86,
+   "Util1": 11172975
+ },
+ {
+   "Time": 369,
+   "CreditPool": 56,
+   "Util1": 0
+ },
+ {
+   "Time": 370,
+   "CreditPool": 27,
+   "Util1": 57331898
+ },
+ {
+   "Time": 371,
+   "CreditPool": 8,
+   "Util1": 41885150
+ },
+ {
+   "Time": 372,
+   "CreditPool": 13,
+   "Util1": 99576967
+ },
+ {
+   "Time": 373,
+   "CreditPool": 41,
+   "Util1": 19818611
+ },
+ {
+   "Time": 374,
+   "CreditPool": 32,
+   "Util1": 18076546
+ },
+ {
+   "Time": 375,
+   "CreditPool": 119,
+   "Util1": 45086890
+ },
+ {
+   "Time": 376,
+   "CreditPool": 127,
+   "Util1": 33962029
+ },
+ {
+   "Time": 377,
+   "CreditPool": 10,
+   "Util1": 237986210
+ },
+ {
+   "Time": 378,
+   "CreditPool": 70,
+   "Util1": 0
+ },
+ {
+   "Time": 379,
+   "CreditPool": 55,
+   "Util1": 0
+ },
+ {
+   "Time": 380,
+   "CreditPool": 65,
+   "Util1": 7331881
+ },
+ {
+   "Time": 381,
+   "CreditPool": 26,
+   "Util1": 1786630
+ },
+ {
+   "Time": 382,
+   "CreditPool": 66,
+   "Util1": 27959069
+ },
+ {
+   "Time": 383,
+   "CreditPool": 121,
+   "Util1": 35142666
+ },
+ {
+   "Time": 384,
+   "CreditPool": 9,
+   "Util1": 14019762
+ },
+ {
+   "Time": 385,
+   "CreditPool": 80,
+   "Util1": 29217989
+ },
+ {
+   "Time": 386,
+   "CreditPool": 107,
+   "Util1": 50430362
+ },
+ {
+   "Time": 387,
+   "CreditPool": 86,
+   "Util1": 35214999
+ },
+ {
+   "Time": 388,
+   "CreditPool": 78,
+   "Util1": 35211745
+ },
+ {
+   "Time": 389,
+   "CreditPool": 108,
+   "Util1": 52088180
+ },
+ {
+   "Time": 390,
+   "CreditPool": 106,
+   "Util1": 0
+ },
+ {
+   "Time": 391,
+   "CreditPool": 74,
+   "Util1": 13831286
+ },
+ {
+   "Time": 392,
+   "CreditPool": 52,
+   "Util1": 27866878
+ },
+ {
+   "Time": 393,
+   "CreditPool": 8,
+   "Util1": 44989123
+ },
+ {
+   "Time": 394,
+   "CreditPool": 104,
+   "Util1": 0
+ },
+ {
+   "Time": 395,
+   "CreditPool": 50,
+   "Util1": 30935765
+ },
+ {
+   "Time": 396,
+   "CreditPool": 83,
+   "Util1": 11856355
+ },
+ {
+   "Time": 397,
+   "CreditPool": 22,
+   "Util1": 6848893
+ },
+ {
+   "Time": 398,
+   "CreditPool": 106,
+   "Util1": 0
+ },
+ {
+   "Time": 399,
+   "CreditPool": 67,
+   "Util1": 23373856
+ },
+ {
+   "Time": 400,
+   "CreditPool": 16,
+   "Util1": 133268098
+ },
+ {
+   "Time": 401,
+   "CreditPool": 14,
+   "Util1": 59927630
+ },
+ {
+   "Time": 402,
+   "CreditPool": 32,
+   "Util1": 7219227
+ },
+ {
+   "Time": 403,
+   "CreditPool": 120,
+   "Util1": 0
+ },
+ {
+   "Time": 404,
+   "CreditPool": 106,
+   "Util1": 0
+ },
+ {
+   "Time": 405,
+   "CreditPool": 33,
+   "Util1": 33687408
+ },
+ {
+   "Time": 406,
+   "CreditPool": 116,
+   "Util1": 55278512
+ },
+ {
+   "Time": 407,
+   "CreditPool": 83,
+   "Util1": 27105080
+ },
+ {
+   "Time": 408,
+   "CreditPool": 65,
+   "Util1": 17489936
+ },
+ {
+   "Time": 409,
+   "CreditPool": 77,
+   "Util1": 28363088
+ },
+ {
+   "Time": 410,
+   "CreditPool": 57,
+   "Util1": 21489275
+ },
+ {
+   "Time": 411,
+   "CreditPool": 53,
+   "Util1": 0
+ },
+ {
+   "Time": 412,
+   "CreditPool": 45,
+   "Util1": 14137244
+ },
+ {
+   "Time": 413,
+   "CreditPool": 78,
+   "Util1": 31351531
+ },
+ {
+   "Time": 414,
+   "CreditPool": 121,
+   "Util1": 48443923
+ },
+ {
+   "Time": 415,
+   "CreditPool": 107,
+   "Util1": 38270768
+ },
+ {
+   "Time": 416,
+   "CreditPool": 129,
+   "Util1": 51149303
+ },
+ {
+   "Time": 417,
+   "CreditPool": 4,
+   "Util1": 136999319
+ },
+ {
+   "Time": 418,
+   "CreditPool": 33,
+   "Util1": 253703
+ },
+ {
+   "Time": 419,
+   "CreditPool": 122,
+   "Util1": 0
+ },
+ {
+   "Time": 420,
+   "CreditPool": 21,
+   "Util1": 23927263
+ },
+ {
+   "Time": 421,
+   "CreditPool": 31,
+   "Util1": 50623531
+ },
+ {
+   "Time": 422,
+   "CreditPool": 118,
+   "Util1": 26501738
+ },
+ {
+   "Time": 423,
+   "CreditPool": 74,
+   "Util1": 47921262
+ },
+ {
+   "Time": 424,
+   "CreditPool": 102,
+   "Util1": 11988368
+ },
+ {
+   "Time": 425,
+   "CreditPool": 78,
+   "Util1": 36487659
+ },
+ {
+   "Time": 426,
+   "CreditPool": 52,
+   "Util1": 45370221
+ },
+ {
+   "Time": 427,
+   "CreditPool": 27,
+   "Util1": 53645285
+ },
+ {
+   "Time": 428,
+   "CreditPool": 110,
+   "Util1": 10928458
+ },
+ {
+   "Time": 429,
+   "CreditPool": 71,
+   "Util1": 0
+ },
+ {
+   "Time": 430,
+   "CreditPool": 25,
+   "Util1": 13473879
+ },
+ {
+   "Time": 431,
+   "CreditPool": 46,
+   "Util1": 32505317
+ },
+ {
+   "Time": 432,
+   "CreditPool": 20,
+   "Util1": 16336122
+ },
+ {
+   "Time": 433,
+   "CreditPool": 65,
+   "Util1": 17838489
+ },
+ {
+   "Time": 434,
+   "CreditPool": 8,
+   "Util1": 11906206
+ },
+ {
+   "Time": 435,
+   "CreditPool": 7,
+   "Util1": 28357721
+ },
+ {
+   "Time": 436,
+   "CreditPool": 56,
+   "Util1": 0
+ },
+ {
+   "Time": 437,
+   "CreditPool": 126,
+   "Util1": 20422589
+ },
+ {
+   "Time": 438,
+   "CreditPool": 63,
+   "Util1": 22597728
+ },
+ {
+   "Time": 439,
+   "CreditPool": 71,
+   "Util1": 0
+ },
+ {
+   "Time": 440,
+   "CreditPool": 34,
+   "Util1": 22137970
+ },
+ {
+   "Time": 441,
+   "CreditPool": 27,
+   "Util1": 10639475
+ },
+ {
+   "Time": 442,
+   "CreditPool": 6,
+   "Util1": 14541550
+ },
+ {
+   "Time": 443,
+   "CreditPool": 83,
+   "Util1": 19502631
+ },
+ {
+   "Time": 444,
+   "CreditPool": 131,
+   "Util1": 44375217
+ },
+ {
+   "Time": 445,
+   "CreditPool": 8,
+   "Util1": 7605469
+ },
+ {
+   "Time": 446,
+   "CreditPool": 47,
+   "Util1": 45126974
+ },
+ {
+   "Time": 447,
+   "CreditPool": 75,
+   "Util1": 8963302
+ },
+ {
+   "Time": 448,
+   "CreditPool": 101,
+   "Util1": 4159993
+ },
+ {
+   "Time": 449,
+   "CreditPool": 16,
+   "Util1": 145925431
+ },
+ {
+   "Time": 450,
+   "CreditPool": 43,
+   "Util1": 51593357
+ },
+ {
+   "Time": 451,
+   "CreditPool": 34,
+   "Util1": 34942259
+ },
+ {
+   "Time": 452,
+   "CreditPool": 41,
+   "Util1": 19562730
+ },
+ {
+   "Time": 453,
+   "CreditPool": 104,
+   "Util1": 0
+ },
+ {
+   "Time": 454,
+   "CreditPool": 128,
+   "Util1": 10955185
+ },
+ {
+   "Time": 455,
+   "CreditPool": 65,
+   "Util1": 53244450
+ },
+ {
+   "Time": 456,
+   "CreditPool": 75,
+   "Util1": 13047911
+ },
+ {
+   "Time": 457,
+   "CreditPool": 46,
+   "Util1": 8710269
+ },
+ {
+   "Time": 458,
+   "CreditPool": 3,
+   "Util1": 240319698
+ },
+ {
+   "Time": 459,
+   "CreditPool": 48,
+   "Util1": 54822444
+ },
+ {
+   "Time": 460,
+   "CreditPool": 74,
+   "Util1": 9051006
+ },
+ {
+   "Time": 461,
+   "CreditPool": 13,
+   "Util1": 96417848
+ },
+ {
+   "Time": 462,
+   "CreditPool": 20,
+   "Util1": 51316607
+ },
+ {
+   "Time": 463,
+   "CreditPool": 67,
+   "Util1": 27911306
+ },
+ {
+   "Time": 464,
+   "CreditPool": 9,
+   "Util1": 2116343
+ },
+ {
+   "Time": 465,
+   "CreditPool": 110,
+   "Util1": 29640344
+ },
+ {
+   "Time": 466,
+   "CreditPool": 122,
+   "Util1": 0
+ },
+ {
+   "Time": 467,
+   "CreditPool": 16,
+   "Util1": 114557189
+ },
+ {
+   "Time": 468,
+   "CreditPool": 114,
+   "Util1": 0
+ },
+ {
+   "Time": 469,
+   "CreditPool": 122,
+   "Util1": 0
+ },
+ {
+   "Time": 470,
+   "CreditPool": 3,
+   "Util1": 203610442
+ },
+ {
+   "Time": 471,
+   "CreditPool": 48,
+   "Util1": 26309615
+ },
+ {
+   "Time": 472,
+   "CreditPool": 86,
+   "Util1": 13383922
+ },
+ {
+   "Time": 473,
+   "CreditPool": 0,
+   "Util1": 19258792
+ },
+ {
+   "Time": 474,
+   "CreditPool": 9,
+   "Util1": 8049146
+ },
+ {
+   "Time": 475,
+   "CreditPool": 42,
+   "Util1": 34163177
+ },
+ {
+   "Time": 476,
+   "CreditPool": 50,
+   "Util1": 59331136
+ },
+ {
+   "Time": 477,
+   "CreditPool": 125,
+   "Util1": 0
+ },
+ {
+   "Time": 478,
+   "CreditPool": 77,
+   "Util1": 42657057
+ },
+ {
+   "Time": 479,
+   "CreditPool": 9,
+   "Util1": 8019244
+ },
+ {
+   "Time": 480,
+   "CreditPool": 79,
+   "Util1": 45549110
+ },
+ {
+   "Time": 481,
+   "CreditPool": 105,
+   "Util1": 0
+ },
+ {
+   "Time": 482,
+   "CreditPool": 19,
+   "Util1": 48123818
+ },
+ {
+   "Time": 483,
+   "CreditPool": 46,
+   "Util1": 43689815
+ },
+ {
+   "Time": 484,
+   "CreditPool": 60,
+   "Util1": 36992144
+ },
+ {
+   "Time": 485,
+   "CreditPool": 47,
+   "Util1": 9642433
+ },
+ {
+   "Time": 486,
+   "CreditPool": 57,
+   "Util1": 30276941
+ },
+ {
+   "Time": 487,
+   "CreditPool": 20,
+   "Util1": 8479997
+ },
+ {
+   "Time": 488,
+   "CreditPool": 64,
+   "Util1": 8627505
+ },
+ {
+   "Time": 489,
+   "CreditPool": 128,
+   "Util1": 27602631
+ },
+ {
+   "Time": 490,
+   "CreditPool": 50,
+   "Util1": 26802478
+ },
+ {
+   "Time": 491,
+   "CreditPool": 130,
+   "Util1": 20823418
+ },
+ {
+   "Time": 492,
+   "CreditPool": 103,
+   "Util1": 0
+ },
+ {
+   "Time": 493,
+   "CreditPool": 124,
+   "Util1": 0
+ },
+ {
+   "Time": 494,
+   "CreditPool": 44,
+   "Util1": 35970158
+ },
+ {
+   "Time": 495,
+   "CreditPool": 114,
+   "Util1": 0
+ },
+ {
+   "Time": 496,
+   "CreditPool": 40,
+   "Util1": 9529841
+ },
+ {
+   "Time": 497,
+   "CreditPool": 122,
+   "Util1": 0
+ },
+ {
+   "Time": 498,
+   "CreditPool": 85,
+   "Util1": 55153347
+ },
+ {
+   "Time": 499,
+   "CreditPool": 125,
+   "Util1": 0
+ },
+ {
+   "Time": 500,
+   "CreditPool": 106,
+   "Util1": 0
+ },
+ {
+   "Time": 501,
+   "CreditPool": 20,
+   "Util1": 32235349
+ },
+ {
+   "Time": 502,
+   "CreditPool": 51,
+   "Util1": 21338050
+ },
+ {
+   "Time": 503,
+   "CreditPool": 61,
+   "Util1": 0
+ },
+ {
+   "Time": 504,
+   "CreditPool": 126,
+   "Util1": 18749356
+ },
+ {
+   "Time": 505,
+   "CreditPool": 124,
+   "Util1": 0
+ },
+ {
+   "Time": 506,
+   "CreditPool": 109,
+   "Util1": 22647547
+ },
+ {
+   "Time": 507,
+   "CreditPool": 41,
+   "Util1": 23854695
+ },
+ {
+   "Time": 508,
+   "CreditPool": 11,
+   "Util1": 23528272
+ },
+ {
+   "Time": 509,
+   "CreditPool": 67,
+   "Util1": 24122624
+ },
+ {
+   "Time": 510,
+   "CreditPool": 34,
+   "Util1": 13628095
+ },
+ {
+   "Time": 511,
+   "CreditPool": 102,
+   "Util1": 41830222
+ },
+ {
+   "Time": 512,
+   "CreditPool": 8,
+   "Util1": 12121385
+ },
+ {
+   "Time": 513,
+   "CreditPool": 32,
+   "Util1": 33834330
+ },
+ {
+   "Time": 514,
+   "CreditPool": 72,
+   "Util1": 53759823
+ },
+ {
+   "Time": 515,
+   "CreditPool": 50,
+   "Util1": 56927693
+ },
+ {
+   "Time": 516,
+   "CreditPool": 67,
+   "Util1": 57787784
+ },
+ {
+   "Time": 517,
+   "CreditPool": 50,
+   "Util1": 45618670
+ },
+ {
+   "Time": 518,
+   "CreditPool": 52,
+   "Util1": 46664705
+ },
+ {
+   "Time": 519,
+   "CreditPool": 110,
+   "Util1": 56061387
+ },
+ {
+   "Time": 520,
+   "CreditPool": 128,
+   "Util1": 45184023
+ },
+ {
+   "Time": 521,
+   "CreditPool": 46,
+   "Util1": 53943981
+ },
+ {
+   "Time": 522,
+   "CreditPool": 108,
+   "Util1": 18279456
+ },
+ {
+   "Time": 523,
+   "CreditPool": 5,
+   "Util1": 209069251
+ },
+ {
+   "Time": 524,
+   "CreditPool": 101,
+   "Util1": 29948067
+ },
+ {
+   "Time": 525,
+   "CreditPool": 11,
+   "Util1": 31721605
+ },
+ {
+   "Time": 526,
+   "CreditPool": 53,
+   "Util1": 0
+ },
+ {
+   "Time": 527,
+   "CreditPool": 50,
+   "Util1": 5282878
+ },
+ {
+   "Time": 528,
+   "CreditPool": 40,
+   "Util1": 56410197
+ },
+ {
+   "Time": 529,
+   "CreditPool": 52,
+   "Util1": 4247860
+ },
+ {
+   "Time": 530,
+   "CreditPool": 6,
+   "Util1": 265087960
+ },
+ {
+   "Time": 531,
+   "CreditPool": 8,
+   "Util1": 9103521
+ },
+ {
+   "Time": 532,
+   "CreditPool": 20,
+   "Util1": 55808601
+ },
+ {
+   "Time": 533,
+   "CreditPool": 78,
+   "Util1": 18431757
+ },
+ {
+   "Time": 534,
+   "CreditPool": 62,
+   "Util1": 0
+ },
+ {
+   "Time": 535,
+   "CreditPool": 77,
+   "Util1": 4708143
+ },
+ {
+   "Time": 536,
+   "CreditPool": 64,
+   "Util1": 18120765
+ },
+ {
+   "Time": 537,
+   "CreditPool": 130,
+   "Util1": 1921265
+ },
+ {
+   "Time": 538,
+   "CreditPool": 112,
+   "Util1": 53417183
+ },
+ {
+   "Time": 539,
+   "CreditPool": 34,
+   "Util1": 37635102
+ },
+ {
+   "Time": 540,
+   "CreditPool": 102,
+   "Util1": 54312319
+ },
+ {
+   "Time": 541,
+   "CreditPool": 10,
+   "Util1": 132872622
+ },
+ {
+   "Time": 542,
+   "CreditPool": 7,
+   "Util1": 111670514
+ },
+ {
+   "Time": 543,
+   "CreditPool": 8,
+   "Util1": 5384569
+ },
+ {
+   "Time": 544,
+   "CreditPool": 19,
+   "Util1": 21299920
+ },
+ {
+   "Time": 545,
+   "CreditPool": 20,
+   "Util1": 56237370
+ },
+ {
+   "Time": 546,
+   "CreditPool": 84,
+   "Util1": 36810775
+ },
+ {
+   "Time": 547,
+   "CreditPool": 25,
+   "Util1": 13268407
+ },
+ {
+   "Time": 548,
+   "CreditPool": 4,
+   "Util1": 204013893
+ },
+ {
+   "Time": 549,
+   "CreditPool": 80,
+   "Util1": 55837145
+ },
+ {
+   "Time": 550,
+   "CreditPool": 121,
+   "Util1": 33680771
+ },
+ {
+   "Time": 551,
+   "CreditPool": 101,
+   "Util1": 17400364
+ },
+ {
+   "Time": 552,
+   "CreditPool": 7,
+   "Util1": 137399979
+ },
+ {
+   "Time": 553,
+   "CreditPool": 105,
+   "Util1": 0
+ },
+ {
+   "Time": 554,
+   "CreditPool": 129,
+   "Util1": 37496563
+ },
+ {
+   "Time": 555,
+   "CreditPool": 66,
+   "Util1": 2784795
+ },
+ {
+   "Time": 556,
+   "CreditPool": 77,
+   "Util1": 15442066
+ },
+ {
+   "Time": 557,
+   "CreditPool": 52,
+   "Util1": 28336112
+ },
+ {
+   "Time": 558,
+   "CreditPool": 117,
+   "Util1": 39407561
+ },
+ {
+   "Time": 559,
+   "CreditPool": 101,
+   "Util1": 13718668
+ },
+ {
+   "Time": 560,
+   "CreditPool": 21,
+   "Util1": 25986671
+ },
+ {
+   "Time": 561,
+   "CreditPool": 71,
+   "Util1": 0
+ },
+ {
+   "Time": 562,
+   "CreditPool": 41,
+   "Util1": 21416362
+ },
+ {
+   "Time": 563,
+   "CreditPool": 131,
+   "Util1": 14402086
+ },
+ {
+   "Time": 564,
+   "CreditPool": 133,
+   "Util1": 20892397
+ },
+ {
+   "Time": 565,
+   "CreditPool": 6,
+   "Util1": 136683932
+ },
+ {
+   "Time": 566,
+   "CreditPool": 130,
+   "Util1": 31367384
+ },
+ {
+   "Time": 567,
+   "CreditPool": 16,
+   "Util1": 124873095
+ },
+ {
+   "Time": 568,
+   "CreditPool": 78,
+   "Util1": 6729085
+ },
+ {
+   "Time": 569,
+   "CreditPool": 128,
+   "Util1": 38309504
+ },
+ {
+   "Time": 570,
+   "CreditPool": 7,
+   "Util1": 36594151
+ },
+ {
+   "Time": 571,
+   "CreditPool": 52,
+   "Util1": 34272250
+ },
+ {
+   "Time": 572,
+   "CreditPool": 103,
+   "Util1": 0
+ },
+ {
+   "Time": 573,
+   "CreditPool": 26,
+   "Util1": 12312452
+ },
+ {
+   "Time": 574,
+   "CreditPool": 116,
+   "Util1": 6206916
+ },
+ {
+   "Time": 575,
+   "CreditPool": 103,
+   "Util1": 0
+ },
+ {
+   "Time": 576,
+   "CreditPool": 15,
+   "Util1": 32342738
+ },
+ {
+   "Time": 577,
+   "CreditPool": 119,
+   "Util1": 4632978
+ },
+ {
+   "Time": 578,
+   "CreditPool": 16,
+   "Util1": 83439540
+ },
+ {
+   "Time": 579,
+   "CreditPool": 123,
+   "Util1": 52443721
+ },
+ {
+   "Time": 580,
+   "CreditPool": 79,
+   "Util1": 36048375
+ },
+ {
+   "Time": 581,
+   "CreditPool": 19,
+   "Util1": 32925653
+ },
+ {
+   "Time": 582,
+   "CreditPool": 125,
+   "Util1": 0
+ },
+ {
+   "Time": 583,
+   "CreditPool": 66,
+   "Util1": 25558296
+ },
+ {
+   "Time": 584,
+   "CreditPool": 3,
+   "Util1": 276195477
+ },
+ {
+   "Time": 585,
+   "CreditPool": 133,
+   "Util1": 39518162
+ },
+ {
+   "Time": 586,
+   "CreditPool": 124,
+   "Util1": 0
+ },
+ {
+   "Time": 587,
+   "CreditPool": 66,
+   "Util1": 24508311
+ },
+ {
+   "Time": 588,
+   "CreditPool": 66,
+   "Util1": 42418681
+ },
+ {
+   "Time": 589,
+   "CreditPool": 0,
+   "Util1": 49918180
+ },
+ {
+   "Time": 590,
+   "CreditPool": 74,
+   "Util1": 454993
+ },
+ {
+   "Time": 591,
+   "CreditPool": 85,
+   "Util1": 20223419
+ },
+ {
+   "Time": 592,
+   "CreditPool": 53,
+   "Util1": 0
+ },
+ {
+   "Time": 593,
+   "CreditPool": 32,
+   "Util1": 20840033
+ },
+ {
+   "Time": 594,
+   "CreditPool": 126,
+   "Util1": 34610275
+ },
+ {
+   "Time": 595,
+   "CreditPool": 101,
+   "Util1": 50034950
+ },
+ {
+   "Time": 596,
+   "CreditPool": 73,
+   "Util1": 39171605
+ },
+ {
+   "Time": 597,
+   "CreditPool": 59,
+   "Util1": 53945955
+ },
+ {
+   "Time": 598,
+   "CreditPool": 78,
+   "Util1": 12428719
+ },
+ {
+   "Time": 599,
+   "CreditPool": 80,
+   "Util1": 50632082
+ },
+ {
+   "Time": 600,
+   "CreditPool": 32,
+   "Util1": 10151104
+ },
+ {
+   "Time": 601,
+   "CreditPool": 51,
+   "Util1": 37182266
+ },
+ {
+   "Time": 602,
+   "CreditPool": 126,
+   "Util1": 15103141
+ },
+ {
+   "Time": 603,
+   "CreditPool": 8,
+   "Util1": 12319301
+ },
+ {
+   "Time": 604,
+   "CreditPool": 63,
+   "Util1": 38138464
+ },
+ {
+   "Time": 605,
+   "CreditPool": 26,
+   "Util1": 13757132
+ },
+ {
+   "Time": 606,
+   "CreditPool": 73,
+   "Util1": 38139348
+ },
+ {
+   "Time": 607,
+   "CreditPool": 19,
+   "Util1": 833440
+ },
+ {
+   "Time": 608,
+   "CreditPool": 10,
+   "Util1": 130325010
+ },
+ {
+   "Time": 609,
+   "CreditPool": 125,
+   "Util1": 0
+ },
+ {
+   "Time": 610,
+   "CreditPool": 63,
+   "Util1": 46082927
+ },
+ {
+   "Time": 611,
+   "CreditPool": 75,
+   "Util1": 51689973
+ },
+ {
+   "Time": 612,
+   "CreditPool": 53,
+   "Util1": 0
+ },
+ {
+   "Time": 613,
+   "CreditPool": 32,
+   "Util1": 54690275
+ },
+ {
+   "Time": 614,
+   "CreditPool": 45,
+   "Util1": 12846816
+ },
+ {
+   "Time": 615,
+   "CreditPool": 130,
+   "Util1": 51877058
+ },
+ {
+   "Time": 616,
+   "CreditPool": 114,
+   "Util1": 0
+ },
+ {
+   "Time": 617,
+   "CreditPool": 47,
+   "Util1": 43919162
+ },
+ {
+   "Time": 618,
+   "CreditPool": 133,
+   "Util1": 24079152
+ },
+ {
+   "Time": 619,
+   "CreditPool": 46,
+   "Util1": 2231448
+ },
+ {
+   "Time": 620,
+   "CreditPool": 86,
+   "Util1": 5685165
+ },
+ {
+   "Time": 621,
+   "CreditPool": 4,
+   "Util1": 139675610
+ },
+ {
+   "Time": 622,
+   "CreditPool": 27,
+   "Util1": 59600848
+ },
+ {
+   "Time": 623,
+   "CreditPool": 123,
+   "Util1": 41000040
+ },
+ {
+   "Time": 624,
+   "CreditPool": 4,
+   "Util1": 12965761
+ },
+ {
+   "Time": 625,
+   "CreditPool": 48,
+   "Util1": 40269544
+ },
+ {
+   "Time": 626,
+   "CreditPool": 59,
+   "Util1": 21782986
+ },
+ {
+   "Time": 627,
+   "CreditPool": 129,
+   "Util1": 51450859
+ },
+ {
+   "Time": 628,
+   "CreditPool": 116,
+   "Util1": 1519471
+ },
+ {
+   "Time": 629,
+   "CreditPool": 61,
+   "Util1": 0
+ },
+ {
+   "Time": 630,
+   "CreditPool": 126,
+   "Util1": 16757220
+ },
+ {
+   "Time": 631,
+   "CreditPool": 110,
+   "Util1": 26077101
+ },
+ {
+   "Time": 632,
+   "CreditPool": 126,
+   "Util1": 44649952
+ },
+ {
+   "Time": 633,
+   "CreditPool": 34,
+   "Util1": 13655204
+ },
+ {
+   "Time": 634,
+   "CreditPool": 58,
+   "Util1": 37599321
+ },
+ {
+   "Time": 635,
+   "CreditPool": 53,
+   "Util1": 0
+ },
+ {
+   "Time": 636,
+   "CreditPool": 44,
+   "Util1": 39921549
+ },
+ {
+   "Time": 637,
+   "CreditPool": 107,
+   "Util1": 55096891
+ },
+ {
+   "Time": 638,
+   "CreditPool": 6,
+   "Util1": 137735075
+ },
+ {
+   "Time": 639,
+   "CreditPool": 106,
+   "Util1": 0
+ },
+ {
+   "Time": 640,
+   "CreditPool": 112,
+   "Util1": 34981153
+ },
+ {
+   "Time": 641,
+   "CreditPool": 109,
+   "Util1": 56950427
+ },
+ {
+   "Time": 642,
+   "CreditPool": 75,
+   "Util1": 47227759
+ },
+ {
+   "Time": 643,
+   "CreditPool": 48,
+   "Util1": 24773607
+ },
+ {
+   "Time": 644,
+   "CreditPool": 73,
+   "Util1": 45648717
+ },
+ {
+   "Time": 645,
+   "CreditPool": 47,
+   "Util1": 44363181
+ },
+ {
+   "Time": 646,
+   "CreditPool": 15,
+   "Util1": 20103355
+ },
+ {
+   "Time": 647,
+   "CreditPool": 70,
+   "Util1": 0
+ },
+ {
+   "Time": 648,
+   "CreditPool": 118,
+   "Util1": 19724876
+ },
+ {
+   "Time": 649,
+   "CreditPool": 73,
+   "Util1": 45585994
+ },
+ {
+   "Time": 650,
+   "CreditPool": 10,
+   "Util1": 114440133
+ },
+ {
+   "Time": 651,
+   "CreditPool": 64,
+   "Util1": 13316697
+ },
+ {
+   "Time": 652,
+   "CreditPool": 55,
+   "Util1": 0
+ },
+ {
+   "Time": 653,
+   "CreditPool": 74,
+   "Util1": 35161973
+ },
+ {
+   "Time": 654,
+   "CreditPool": 71,
+   "Util1": 0
+ },
+ {
+   "Time": 655,
+   "CreditPool": 48,
+   "Util1": 1904884
+ },
+ {
+   "Time": 656,
+   "CreditPool": 19,
+   "Util1": 21178946
+ },
+ {
+   "Time": 657,
+   "CreditPool": 58,
+   "Util1": 25256042
+ },
+ {
+   "Time": 658,
+   "CreditPool": 3,
+   "Util1": 246271554
+ },
+ {
+   "Time": 659,
+   "CreditPool": 14,
+   "Util1": 129406769
+ },
+ {
+   "Time": 660,
+   "CreditPool": 61,
+   "Util1": 0
+ },
+ {
+   "Time": 661,
+   "CreditPool": 131,
+   "Util1": 19206741
+ },
+ {
+   "Time": 662,
+   "CreditPool": 73,
+   "Util1": 16318036
+ },
+ {
+   "Time": 663,
+   "CreditPool": 104,
+   "Util1": 0
+ },
+ {
+   "Time": 664,
+   "CreditPool": 130,
+   "Util1": 59596330
+ },
+ {
+   "Time": 665,
+   "CreditPool": 10,
+   "Util1": 70768002
+ },
+ {
+   "Time": 666,
+   "CreditPool": 63,
+   "Util1": 39781052
+ },
+ {
+   "Time": 667,
+   "CreditPool": 16,
+   "Util1": 141530000
+ },
+ {
+   "Time": 668,
+   "CreditPool": 26,
+   "Util1": 57598554
+ },
+ {
+   "Time": 669,
+   "CreditPool": 83,
+   "Util1": 44864549
+ },
+ {
+   "Time": 670,
+   "CreditPool": 121,
+   "Util1": 34039475
+ },
+ {
+   "Time": 671,
+   "CreditPool": 64,
+   "Util1": 2969099
+ },
+ {
+   "Time": 672,
+   "CreditPool": 128,
+   "Util1": 50057633
+ },
+ {
+   "Time": 673,
+   "CreditPool": 102,
+   "Util1": 24373152
+ },
+ {
+   "Time": 674,
+   "CreditPool": 125,
+   "Util1": 0
+ },
+ {
+   "Time": 675,
+   "CreditPool": 52,
+   "Util1": 19494835
+ },
+ {
+   "Time": 676,
+   "CreditPool": 18,
+   "Util1": 43152280
+ },
+ {
+   "Time": 677,
+   "CreditPool": 70,
+   "Util1": 0
+ },
+ {
+   "Time": 678,
+   "CreditPool": 61,
+   "Util1": 0
+ },
+ {
+   "Time": 679,
+   "CreditPool": 3,
+   "Util1": 148654476
+ },
+ {
+   "Time": 680,
+   "CreditPool": 10,
+   "Util1": 19466480
+ },
+ {
+   "Time": 681,
+   "CreditPool": 40,
+   "Util1": 4887741
+ },
+ {
+   "Time": 682,
+   "CreditPool": 74,
+   "Util1": 49067515
+ },
+ {
+   "Time": 683,
+   "CreditPool": 119,
+   "Util1": 48293132
+ },
+ {
+   "Time": 684,
+   "CreditPool": 109,
+   "Util1": 55961904
+ },
+ {
+   "Time": 685,
+   "CreditPool": 53,
+   "Util1": 0
+ },
+ {
+   "Time": 686,
+   "CreditPool": 71,
+   "Util1": 0
+ },
+ {
+   "Time": 687,
+   "CreditPool": 62,
+   "Util1": 0
+ },
+ {
+   "Time": 688,
+   "CreditPool": 46,
+   "Util1": 46562196
+ },
+ {
+   "Time": 689,
+   "CreditPool": 63,
+   "Util1": 4854378
+ },
+ {
+   "Time": 690,
+   "CreditPool": 46,
+   "Util1": 33173442
+ },
+ {
+   "Time": 691,
+   "CreditPool": 40,
+   "Util1": 46606008
+ },
+ {
+   "Time": 692,
+   "CreditPool": 63,
+   "Util1": 46953190
+ },
+ {
+   "Time": 693,
+   "CreditPool": 59,
+   "Util1": 52656570
+ },
+ {
+   "Time": 694,
+   "CreditPool": 110,
+   "Util1": 37896132
+ },
+ {
+   "Time": 695,
+   "CreditPool": 104,
+   "Util1": 0
+ },
+ {
+   "Time": 696,
+   "CreditPool": 56,
+   "Util1": 0
+ },
+ {
+   "Time": 697,
+   "CreditPool": 104,
+   "Util1": 0
+ },
+ {
+   "Time": 698,
+   "CreditPool": 86,
+   "Util1": 32198904
+ },
+ {
+   "Time": 699,
+   "CreditPool": 115,
+   "Util1": 69896040
+ },
+ {
+   "Time": 700,
+   "CreditPool": 54,
+   "Util1": 35814828
+ },
+ {
+   "Time": 701,
+   "CreditPool": 56,
+   "Util1": 0
+ },
+ {
+   "Time": 702,
+   "CreditPool": 118,
+   "Util1": 16375355
+ },
+ {
+   "Time": 703,
+   "CreditPool": 22,
+   "Util1": 59111820
+ },
+ {
+   "Time": 704,
+   "CreditPool": 54,
+   "Util1": 15746410
+ },
+ {
+   "Time": 705,
+   "CreditPool": 64,
+   "Util1": 7175433
+ },
+ {
+   "Time": 706,
+   "CreditPool": 59,
+   "Util1": 54615562
+ },
+ {
+   "Time": 707,
+   "CreditPool": 26,
+   "Util1": 13116795
+ },
+ {
+   "Time": 708,
+   "CreditPool": 106,
+   "Util1": 0
+ },
+ {
+   "Time": 709,
+   "CreditPool": 129,
+   "Util1": 17851264
+ },
+ {
+   "Time": 710,
+   "CreditPool": 63,
+   "Util1": 62366
+ },
+ {
+   "Time": 711,
+   "CreditPool": 58,
+   "Util1": 20523610
+ },
+ {
+   "Time": 712,
+   "CreditPool": 104,
+   "Util1": 0
+ },
+ {
+   "Time": 713,
+   "CreditPool": 78,
+   "Util1": 13646590
+ },
+ {
+   "Time": 714,
+   "CreditPool": 79,
+   "Util1": 54799353
+ },
+ {
+   "Time": 715,
+   "CreditPool": 26,
+   "Util1": 18368427
+ },
+ {
+   "Time": 716,
+   "CreditPool": 27,
+   "Util1": 35805951
+ },
+ {
+   "Time": 717,
+   "CreditPool": 59,
+   "Util1": 34997257
+ },
+ {
+   "Time": 718,
+   "CreditPool": 80,
+   "Util1": 42694349
+ },
+ {
+   "Time": 719,
+   "CreditPool": 77,
+   "Util1": 16217327
+ },
+ {
+   "Time": 720,
+   "CreditPool": 116,
+   "Util1": 43880089
+ },
+ {
+   "Time": 721,
+   "CreditPool": 84,
+   "Util1": 27765772
+ },
+ {
+   "Time": 722,
+   "CreditPool": 70,
+   "Util1": 0
+ },
+ {
+   "Time": 723,
+   "CreditPool": 9,
+   "Util1": 12514220
+ },
+ {
+   "Time": 724,
+   "CreditPool": 19,
+   "Util1": 57420772
+ },
+ {
+   "Time": 725,
+   "CreditPool": 71,
+   "Util1": 0
+ },
+ {
+   "Time": 726,
+   "CreditPool": 65,
+   "Util1": 12385729
+ },
+ {
+   "Time": 727,
+   "CreditPool": 105,
+   "Util1": 0
+ },
+ {
+   "Time": 728,
+   "CreditPool": 66,
+   "Util1": 17223119
+ },
+ {
+   "Time": 729,
+   "CreditPool": 15,
+   "Util1": 80639870
+ },
+ {
+   "Time": 730,
+   "CreditPool": 10,
+   "Util1": 177145856
+ },
+ {
+   "Time": 731,
+   "CreditPool": 5,
+   "Util1": 229937676
+ },
+ {
+   "Time": 732,
+   "CreditPool": 129,
+   "Util1": 55185008
+ },
+ {
+   "Time": 733,
+   "CreditPool": 106,
+   "Util1": 0
+ },
+ {
+   "Time": 734,
+   "CreditPool": 102,
+   "Util1": 41254798
+ },
+ {
+   "Time": 735,
+   "CreditPool": 58,
+   "Util1": 52194946
+ },
+ {
+   "Time": 736,
+   "CreditPool": 118,
+   "Util1": 20410815
+ },
+ {
+   "Time": 737,
+   "CreditPool": 128,
+   "Util1": 38050984
+ },
+ {
+   "Time": 738,
+   "CreditPool": 60,
+   "Util1": 59271376
+ },
+ {
+   "Time": 739,
+   "CreditPool": 47,
+   "Util1": 3697321
+ },
+ {
+   "Time": 740,
+   "CreditPool": 55,
+   "Util1": 0
+ },
+ {
+   "Time": 741,
+   "CreditPool": 3,
+   "Util1": 230260290
+ },
+ {
+   "Time": 742,
+   "CreditPool": 116,
+   "Util1": 3728520
+ },
+ {
+   "Time": 743,
+   "CreditPool": 102,
+   "Util1": 16373379
+ },
+ {
+   "Time": 744,
+   "CreditPool": 55,
+   "Util1": 0
+ },
+ {
+   "Time": 745,
+   "CreditPool": 6,
+   "Util1": 129264394
+ },
+ {
+   "Time": 746,
+   "CreditPool": 129,
+   "Util1": 33366846
+ },
+ {
+   "Time": 747,
+   "CreditPool": 7,
+   "Util1": 206470935
+ },
+ {
+   "Time": 748,
+   "CreditPool": 82,
+   "Util1": 0
+ },
+ {
+   "Time": 749,
+   "CreditPool": 124,
+   "Util1": 0
+ },
+ {
+   "Time": 750,
+   "CreditPool": 108,
+   "Util1": 28054674
+ },
+ {
+   "Time": 751,
+   "CreditPool": 116,
+   "Util1": 24627453
+ },
+ {
+   "Time": 752,
+   "CreditPool": 77,
+   "Util1": 35429558
+ },
+ {
+   "Time": 753,
+   "CreditPool": 80,
+   "Util1": 31514545
+ },
+ {
+   "Time": 754,
+   "CreditPool": 109,
+   "Util1": 39910354
+ },
+ {
+   "Time": 755,
+   "CreditPool": 26,
+   "Util1": 54665840
+ },
+ {
+   "Time": 756,
+   "CreditPool": 71,
+   "Util1": 0
+ },
+ {
+   "Time": 757,
+   "CreditPool": 114,
+   "Util1": 0
+ },
+ {
+   "Time": 758,
+   "CreditPool": 52,
+   "Util1": 21286946
+ },
+ {
+   "Time": 759,
+   "CreditPool": 105,
+   "Util1": 0
+ },
+ {
+   "Time": 760,
+   "CreditPool": 130,
+   "Util1": 25341218
+ },
+ {
+   "Time": 761,
+   "CreditPool": 84,
+   "Util1": 15571942
+ },
+ {
+   "Time": 762,
+   "CreditPool": 83,
+   "Util1": 7795949
+ },
+ {
+   "Time": 763,
+   "CreditPool": 34,
+   "Util1": 7975585
+ },
+ {
+   "Time": 764,
+   "CreditPool": 101,
+   "Util1": 21372589
+ },
+ {
+   "Time": 765,
+   "CreditPool": 5,
+   "Util1": 171494722
+ },
+ {
+   "Time": 766,
+   "CreditPool": 121,
+   "Util1": 39326657
+ },
+ {
+   "Time": 767,
+   "CreditPool": 55,
+   "Util1": 0
+ },
+ {
+   "Time": 768,
+   "CreditPool": 48,
+   "Util1": 57864298
+ },
+ {
+   "Time": 769,
+   "CreditPool": 75,
+   "Util1": 32777592
+ },
+ {
+   "Time": 770,
+   "CreditPool": 125,
+   "Util1": 0
+ },
+ {
+   "Time": 771,
+   "CreditPool": 105,
+   "Util1": 0
+ },
+ {
+   "Time": 772,
+   "CreditPool": 53,
+   "Util1": 0
+ },
+ {
+   "Time": 773,
+   "CreditPool": 80,
+   "Util1": 45817687
+ },
+ {
+   "Time": 774,
+   "CreditPool": 111,
+   "Util1": 53236066
+ },
+ {
+   "Time": 775,
+   "CreditPool": 47,
+   "Util1": 59126099
+ },
+ {
+   "Time": 776,
+   "CreditPool": 33,
+   "Util1": 44271308
+ },
+ {
+   "Time": 777,
+   "CreditPool": 109,
+   "Util1": 9019989
+ },
+ {
+   "Time": 778,
+   "CreditPool": 31,
+   "Util1": 12938033
+ },
+ {
+   "Time": 779,
+   "CreditPool": 118,
+   "Util1": 44642746
+ },
+ {
+   "Time": 780,
+   "CreditPool": 119,
+   "Util1": 11769894
+ },
+ {
+   "Time": 781,
+   "CreditPool": 55,
+   "Util1": 0
+ },
+ {
+   "Time": 782,
+   "CreditPool": 55,
+   "Util1": 0
+ },
+ {
+   "Time": 783,
+   "CreditPool": 109,
+   "Util1": 16191386
+ },
+ {
+   "Time": 784,
+   "CreditPool": 115,
+   "Util1": 228963363
+ },
+ {
+   "Time": 785,
+   "CreditPool": 115,
+   "Util1": 21691599
+ },
+ {
+   "Time": 786,
+   "CreditPool": 9,
+   "Util1": 7573510
+ },
+ {
+   "Time": 787,
+   "CreditPool": 21,
+   "Util1": 56541909
+ },
+ {
+   "Time": 788,
+   "CreditPool": 75,
+   "Util1": 21649926
+ },
+ {
+   "Time": 789,
+   "CreditPool": 46,
+   "Util1": 22471434
+ },
+ {
+   "Time": 790,
+   "CreditPool": 4,
+   "Util1": 260539642
+ },
+ {
+   "Time": 791,
+   "CreditPool": 15,
+   "Util1": 13012918
+ },
+ {
+   "Time": 792,
+   "CreditPool": 62,
+   "Util1": 0
+ },
+ {
+   "Time": 793,
+   "CreditPool": 31,
+   "Util1": 17873031
+ },
+ {
+   "Time": 794,
+   "CreditPool": 26,
+   "Util1": 45204189
+ },
+ {
+   "Time": 795,
+   "CreditPool": 51,
+   "Util1": 38022327
+ },
+ {
+   "Time": 796,
+   "CreditPool": 48,
+   "Util1": 15586546
+ },
+ {
+   "Time": 797,
+   "CreditPool": 10,
+   "Util1": 55773825
+ },
+ {
+   "Time": 798,
+   "CreditPool": 71,
+   "Util1": 0
+ },
+ {
+   "Time": 799,
+   "CreditPool": 54,
+   "Util1": 22797447
+ },
+ {
+   "Time": 800,
+   "CreditPool": 58,
+   "Util1": 31330637
+ },
+ {
+   "Time": 801,
+   "CreditPool": 127,
+   "Util1": 30105104
+ },
+ {
+   "Time": 802,
+   "CreditPool": 63,
+   "Util1": 50021258
+ },
+ {
+   "Time": 803,
+   "CreditPool": 67,
+   "Util1": 19457981
+ },
+ {
+   "Time": 804,
+   "CreditPool": 14,
+   "Util1": 105360932
+ },
+ {
+   "Time": 805,
+   "CreditPool": 44,
+   "Util1": 35574820
+ },
+ {
+   "Time": 806,
+   "CreditPool": 73,
+   "Util1": 20328453
+ },
+ {
+   "Time": 807,
+   "CreditPool": 60,
+   "Util1": 6067259
+ },
+ {
+   "Time": 808,
+   "CreditPool": 80,
+   "Util1": 52321869
+ },
+ {
+   "Time": 809,
+   "CreditPool": 86,
+   "Util1": 39510193
+ },
+ {
+   "Time": 810,
+   "CreditPool": 59,
+   "Util1": 39796862
+ },
+ {
+   "Time": 811,
+   "CreditPool": 10,
+   "Util1": 162194644
+ },
+ {
+   "Time": 812,
+   "CreditPool": 70,
+   "Util1": 0
+ },
+ {
+   "Time": 813,
+   "CreditPool": 54,
+   "Util1": 27865601
+ },
+ {
+   "Time": 814,
+   "CreditPool": 61,
+   "Util1": 0
+ },
+ {
+   "Time": 815,
+   "CreditPool": 10,
+   "Util1": 133840634
+ },
+ {
+   "Time": 816,
+   "CreditPool": 110,
+   "Util1": 43203292
+ },
+ {
+   "Time": 817,
+   "CreditPool": 11,
+   "Util1": 99302876
+ },
+ {
+   "Time": 818,
+   "CreditPool": 125,
+   "Util1": 0
+ },
+ {
+   "Time": 819,
+   "CreditPool": 60,
+   "Util1": 54082266
+ },
+ {
+   "Time": 820,
+   "CreditPool": 57,
+   "Util1": 14712899
+ },
+ {
+   "Time": 821,
+   "CreditPool": 107,
+   "Util1": 32804717
+ },
+ {
+   "Time": 822,
+   "CreditPool": 33,
+   "Util1": 10873548
+ },
+ {
+   "Time": 823,
+   "CreditPool": 5,
+   "Util1": 156774946
+ },
+ {
+   "Time": 824,
+   "CreditPool": 60,
+   "Util1": 17882874
+ },
+ {
+   "Time": 825,
+   "CreditPool": 19,
+   "Util1": 57579722
+ },
+ {
+   "Time": 826,
+   "CreditPool": 47,
+   "Util1": 33068884
+ },
+ {
+   "Time": 827,
+   "CreditPool": 44,
+   "Util1": 50091310
+ },
+ {
+   "Time": 828,
+   "CreditPool": 81,
+   "Util1": 54114958
+ },
+ {
+   "Time": 829,
+   "CreditPool": 8,
+   "Util1": 37362433
+ },
+ {
+   "Time": 830,
+   "CreditPool": 62,
+   "Util1": 0
+ },
+ {
+   "Time": 831,
+   "CreditPool": 18,
+   "Util1": 144797262
+ },
+ {
+   "Time": 832,
+   "CreditPool": 7,
+   "Util1": 273973129
+ },
+ {
+   "Time": 833,
+   "CreditPool": 50,
+   "Util1": 39827764
+ },
+ {
+   "Time": 834,
+   "CreditPool": 65,
+   "Util1": 23575914
+ },
+ {
+   "Time": 835,
+   "CreditPool": 114,
+   "Util1": 0
+ },
+ {
+   "Time": 836,
+   "CreditPool": 64,
+   "Util1": 48174522
+ },
+ {
+   "Time": 837,
+   "CreditPool": 108,
+   "Util1": 49883340
+ },
+ {
+   "Time": 838,
+   "CreditPool": 67,
+   "Util1": 34212777
+ },
+ {
+   "Time": 839,
+   "CreditPool": 10,
+   "Util1": 84370912
+ },
+ {
+   "Time": 840,
+   "CreditPool": 116,
+   "Util1": 32846851
+ },
+ {
+   "Time": 841,
+   "CreditPool": 19,
+   "Util1": 14255644
+ },
+ {
+   "Time": 842,
+   "CreditPool": 13,
+   "Util1": 88089011
+ },
+ {
+   "Time": 843,
+   "CreditPool": 8,
+   "Util1": 1175698
+ },
+ {
+   "Time": 844,
+   "CreditPool": 115,
+   "Util1": 26089257
+ },
+ {
+   "Time": 845,
+   "CreditPool": 109,
+   "Util1": 28557904
+ },
+ {
+   "Time": 846,
+   "CreditPool": 32,
+   "Util1": 15639546
+ },
+ {
+   "Time": 847,
+   "CreditPool": 101,
+   "Util1": 40130257
+ },
+ {
+   "Time": 848,
+   "CreditPool": 11,
+   "Util1": 54297457
+ },
+ {
+   "Time": 849,
+   "CreditPool": 18,
+   "Util1": 128720948
+ },
+ {
+   "Time": 850,
+   "CreditPool": 56,
+   "Util1": 0
+ },
+ {
+   "Time": 851,
+   "CreditPool": 34,
+   "Util1": 9963820
+ },
+ {
+   "Time": 852,
+   "CreditPool": 20,
+   "Util1": 44037185
+ },
+ {
+   "Time": 853,
+   "CreditPool": 0,
+   "Util1": 29735367
+ },
+ {
+   "Time": 854,
+   "CreditPool": 74,
+   "Util1": 57276241
+ },
+ {
+   "Time": 855,
+   "CreditPool": 104,
+   "Util1": 0
+ },
+ {
+   "Time": 856,
+   "CreditPool": 102,
+   "Util1": 58739444
+ },
+ {
+   "Time": 857,
+   "CreditPool": 81,
+   "Util1": 51416282
+ },
+ {
+   "Time": 858,
+   "CreditPool": 66,
+   "Util1": 28254377
+ },
+ {
+   "Time": 859,
+   "CreditPool": 111,
+   "Util1": 14086650
+ },
+ {
+   "Time": 860,
+   "CreditPool": 25,
+   "Util1": 13356970
+ },
+ {
+   "Time": 861,
+   "CreditPool": 57,
+   "Util1": 7002612
+ },
+ {
+   "Time": 862,
+   "CreditPool": 78,
+   "Util1": 12836923
+ },
+ {
+   "Time": 863,
+   "CreditPool": 85,
+   "Util1": 878045
+ },
+ {
+   "Time": 864,
+   "CreditPool": 59,
+   "Util1": 21150578
+ },
+ {
+   "Time": 865,
+   "CreditPool": 14,
+   "Util1": 90556243
+ },
+ {
+   "Time": 866,
+   "CreditPool": 7,
+   "Util1": 174290226
+ },
+ {
+   "Time": 867,
+   "CreditPool": 131,
+   "Util1": 56675554
+ },
+ {
+   "Time": 868,
+   "CreditPool": 34,
+   "Util1": 43113147
+ },
+ {
+   "Time": 869,
+   "CreditPool": 42,
+   "Util1": 9069833
+ },
+ {
+   "Time": 870,
+   "CreditPool": 110,
+   "Util1": 24308515
+ },
+ {
+   "Time": 871,
+   "CreditPool": 56,
+   "Util1": 0
+ },
+ {
+   "Time": 872,
+   "CreditPool": 76,
+   "Util1": 45656438
+ },
+ {
+   "Time": 873,
+   "CreditPool": 78,
+   "Util1": 25372469
+ },
+ {
+   "Time": 874,
+   "CreditPool": 47,
+   "Util1": 11168993
+ },
+ {
+   "Time": 875,
+   "CreditPool": 51,
+   "Util1": 43858675
+ },
+ {
+   "Time": 876,
+   "CreditPool": 19,
+   "Util1": 12793912
+ },
+ {
+   "Time": 877,
+   "CreditPool": 42,
+   "Util1": 28356265
+ },
+ {
+   "Time": 878,
+   "CreditPool": 44,
+   "Util1": 3623859
+ },
+ {
+   "Time": 879,
+   "CreditPool": 67,
+   "Util1": 53646960
+ },
+ {
+   "Time": 880,
+   "CreditPool": 56,
+   "Util1": 0
+ },
+ {
+   "Time": 881,
+   "CreditPool": 81,
+   "Util1": 24050260
+ },
+ {
+   "Time": 882,
+   "CreditPool": 103,
+   "Util1": 0
+ },
+ {
+   "Time": 883,
+   "CreditPool": 6,
+   "Util1": 19180900
+ },
+ {
+   "Time": 884,
+   "CreditPool": 122,
+   "Util1": 0
+ },
+ {
+   "Time": 885,
+   "CreditPool": 58,
+   "Util1": 27739148
+ },
+ {
+   "Time": 886,
+   "CreditPool": 56,
+   "Util1": 0
+ },
+ {
+   "Time": 887,
+   "CreditPool": 106,
+   "Util1": 0
+ },
+ {
+   "Time": 888,
+   "CreditPool": 33,
+   "Util1": 3682289
+ },
+ {
+   "Time": 889,
+   "CreditPool": 47,
+   "Util1": 35783108
+ },
+ {
+   "Time": 890,
+   "CreditPool": 3,
+   "Util1": 233692353
+ },
+ {
+   "Time": 891,
+   "CreditPool": 10,
+   "Util1": 103931924
+ },
+ {
+   "Time": 892,
+   "CreditPool": 27,
+   "Util1": 13030423
+ },
+ {
+   "Time": 893,
+   "CreditPool": 34,
+   "Util1": 13731236
+ },
+ {
+   "Time": 894,
+   "CreditPool": 102,
+   "Util1": 23619689
+ },
+ {
+   "Time": 895,
+   "CreditPool": 10,
+   "Util1": 100771994
+ },
+ {
+   "Time": 896,
+   "CreditPool": 8,
+   "Util1": 26089780
+ },
+ {
+   "Time": 897,
+   "CreditPool": 10,
+   "Util1": 115875440
+ },
+ {
+   "Time": 898,
+   "CreditPool": 26,
+   "Util1": 15600335
+ },
+ {
+   "Time": 899,
+   "CreditPool": 20,
+   "Util1": 35686646
+ },
+ {
+   "Time": 900,
+   "CreditPool": 20,
+   "Util1": 57643275
+ },
+ {
+   "Time": 901,
+   "CreditPool": 25,
+   "Util1": 54042430
+ },
+ {
+   "Time": 902,
+   "CreditPool": 63,
+   "Util1": 28016713
+ },
+ {
+   "Time": 903,
+   "CreditPool": 108,
+   "Util1": 45935708
+ },
+ {
+   "Time": 904,
+   "CreditPool": 86,
+   "Util1": 20628051
+ },
+ {
+   "Time": 905,
+   "CreditPool": 104,
+   "Util1": 0
+ },
+ {
+   "Time": 906,
+   "CreditPool": 128,
+   "Util1": 6068486
+ },
+ {
+   "Time": 907,
+   "CreditPool": 65,
+   "Util1": 8696605
+ },
+ {
+   "Time": 908,
+   "CreditPool": 74,
+   "Util1": 50619141
+ },
+ {
+   "Time": 909,
+   "CreditPool": 41,
+   "Util1": 43494248
+ },
+ {
+   "Time": 910,
+   "CreditPool": 116,
+   "Util1": 10818470
+ },
+ {
+   "Time": 911,
+   "CreditPool": 60,
+   "Util1": 54102724
+ },
+ {
+   "Time": 912,
+   "CreditPool": 83,
+   "Util1": 30585537
+ },
+ {
+   "Time": 913,
+   "CreditPool": 103,
+   "Util1": 0
+ },
+ {
+   "Time": 914,
+   "CreditPool": 131,
+   "Util1": 14543609
+ },
+ {
+   "Time": 915,
+   "CreditPool": 81,
+   "Util1": 28522227
+ },
+ {
+   "Time": 916,
+   "CreditPool": 10,
+   "Util1": 204119442
+ },
+ {
+   "Time": 917,
+   "CreditPool": 75,
+   "Util1": 52867318
+ },
+ {
+   "Time": 918,
+   "CreditPool": 77,
+   "Util1": 5210321
+ },
+ {
+   "Time": 919,
+   "CreditPool": 48,
+   "Util1": 43190255
+ },
+ {
+   "Time": 920,
+   "CreditPool": 21,
+   "Util1": 53721972
+ },
+ {
+   "Time": 921,
+   "CreditPool": 129,
+   "Util1": 32005194
+ },
+ {
+   "Time": 922,
+   "CreditPool": 106,
+   "Util1": 0
+ },
+ {
+   "Time": 923,
+   "CreditPool": 10,
+   "Util1": 157485524
+ },
+ {
+   "Time": 924,
+   "CreditPool": 131,
+   "Util1": 46647681
+ },
+ {
+   "Time": 925,
+   "CreditPool": 61,
+   "Util1": 0
+ },
+ {
+   "Time": 926,
+   "CreditPool": 33,
+   "Util1": 27477867
+ },
+ {
+   "Time": 927,
+   "CreditPool": 114,
+   "Util1": 0
+ },
+ {
+   "Time": 928,
+   "CreditPool": 71,
+   "Util1": 0
+ },
+ {
+   "Time": 929,
+   "CreditPool": 16,
+   "Util1": 132051159
+ },
+ {
+   "Time": 930,
+   "CreditPool": 130,
+   "Util1": 45567067
+ },
+ {
+   "Time": 931,
+   "CreditPool": 73,
+   "Util1": 30390129
+ },
+ {
+   "Time": 932,
+   "CreditPool": 108,
+   "Util1": 47308874
+ },
+ {
+   "Time": 933,
+   "CreditPool": 56,
+   "Util1": 0
+ },
+ {
+   "Time": 934,
+   "CreditPool": 3,
+   "Util1": 280059535
+ },
+ {
+   "Time": 935,
+   "CreditPool": 20,
+   "Util1": 56009101
+ },
+ {
+   "Time": 936,
+   "CreditPool": 117,
+   "Util1": 20065777
+ },
+ {
+   "Time": 937,
+   "CreditPool": 56,
+   "Util1": 0
+ },
+ {
+   "Time": 938,
+   "CreditPool": 61,
+   "Util1": 0
+ },
+ {
+   "Time": 939,
+   "CreditPool": 4,
+   "Util1": 59236570
+ },
+ {
+   "Time": 940,
+   "CreditPool": 101,
+   "Util1": 54718760
+ },
+ {
+   "Time": 941,
+   "CreditPool": 76,
+   "Util1": 33030635
+ },
+ {
+   "Time": 942,
+   "CreditPool": 43,
+   "Util1": 15113250
+ },
+ {
+   "Time": 943,
+   "CreditPool": 77,
+   "Util1": 49876053
+ },
+ {
+   "Time": 944,
+   "CreditPool": 126,
+   "Util1": 31625773
+ },
+ {
+   "Time": 945,
+   "CreditPool": 131,
+   "Util1": 32005243
+ },
+ {
+   "Time": 946,
+   "CreditPool": 11,
+   "Util1": 58669186
+ },
+ {
+   "Time": 947,
+   "CreditPool": 63,
+   "Util1": 37838641
+ },
+ {
+   "Time": 948,
+   "CreditPool": 15,
+   "Util1": 46208561
+ },
+ {
+   "Time": 949,
+   "CreditPool": 20,
+   "Util1": 6229841
+ },
+ {
+   "Time": 950,
+   "CreditPool": 52,
+   "Util1": 48840773
+ },
+ {
+   "Time": 951,
+   "CreditPool": 57,
+   "Util1": 31906142
+ },
+ {
+   "Time": 952,
+   "CreditPool": 78,
+   "Util1": 46649763
+ },
+ {
+   "Time": 953,
+   "CreditPool": 78,
+   "Util1": 59190232
+ },
+ {
+   "Time": 954,
+   "CreditPool": 52,
+   "Util1": 44766560
+ },
+ {
+   "Time": 955,
+   "CreditPool": 116,
+   "Util1": 17852579
+ },
+ {
+   "Time": 956,
+   "CreditPool": 108,
+   "Util1": 56299984
+ },
+ {
+   "Time": 957,
+   "CreditPool": 10,
+   "Util1": 36106046
+ },
+ {
+   "Time": 958,
+   "CreditPool": 124,
+   "Util1": 0
+ },
+ {
+   "Time": 959,
+   "CreditPool": 58,
+   "Util1": 30035003
+ },
+ {
+   "Time": 960,
+   "CreditPool": 51,
+   "Util1": 47430225
+ },
+ {
+   "Time": 961,
+   "CreditPool": 83,
+   "Util1": 30859270
+ },
+ {
+   "Time": 962,
+   "CreditPool": 127,
+   "Util1": 39454123
+ },
+ {
+   "Time": 963,
+   "CreditPool": 119,
+   "Util1": 51894933
+ },
+ {
+   "Time": 964,
+   "CreditPool": 81,
+   "Util1": 30916636
+ },
+ {
+   "Time": 965,
+   "CreditPool": 50,
+   "Util1": 361706
+ },
+ {
+   "Time": 966,
+   "CreditPool": 4,
+   "Util1": 143113562
+ },
+ {
+   "Time": 967,
+   "CreditPool": 5,
+   "Util1": 2880971
+ },
+ {
+   "Time": 968,
+   "CreditPool": 11,
+   "Util1": 133358242
+ },
+ {
+   "Time": 969,
+   "CreditPool": 31,
+   "Util1": 48336910
+ },
+ {
+   "Time": 970,
+   "CreditPool": 78,
+   "Util1": 18311651
+ },
+ {
+   "Time": 971,
+   "CreditPool": 119,
+   "Util1": 32889203
+ },
+ {
+   "Time": 972,
+   "CreditPool": 116,
+   "Util1": 40090007
+ },
+ {
+   "Time": 973,
+   "CreditPool": 31,
+   "Util1": 45707339
+ },
+ {
+   "Time": 974,
+   "CreditPool": 71,
+   "Util1": 0
+ },
+ {
+   "Time": 975,
+   "CreditPool": 45,
+   "Util1": 53592355
+ },
+ {
+   "Time": 976,
+   "CreditPool": 13,
+   "Util1": 123975661
+ },
+ {
+   "Time": 977,
+   "CreditPool": 66,
+   "Util1": 39883848
+ },
+ {
+   "Time": 978,
+   "CreditPool": 27,
+   "Util1": 11480751
+ },
+ {
+   "Time": 979,
+   "CreditPool": 67,
+   "Util1": 39179669
+ },
+ {
+   "Time": 980,
+   "CreditPool": 124,
+   "Util1": 0
+ },
+ {
+   "Time": 981,
+   "CreditPool": 18,
+   "Util1": 20088384
+ },
+ {
+   "Time": 982,
+   "CreditPool": 117,
+   "Util1": 22889040
+ },
+ {
+   "Time": 983,
+   "CreditPool": 133,
+   "Util1": 2573593
+ },
+ {
+   "Time": 984,
+   "CreditPool": 46,
+   "Util1": 22896932
+ },
+ {
+   "Time": 985,
+   "CreditPool": 82,
+   "Util1": 0
+ },
+ {
+   "Time": 986,
+   "CreditPool": 117,
+   "Util1": 59636002
+ },
+ {
+   "Time": 987,
+   "CreditPool": 75,
+   "Util1": 6169575
+ },
+ {
+   "Time": 988,
+   "CreditPool": 25,
+   "Util1": 497921
+ },
+ {
+   "Time": 989,
+   "CreditPool": 31,
+   "Util1": 13934352
+ },
+ {
+   "Time": 990,
+   "CreditPool": 82,
+   "Util1": 0
+ },
+ {
+   "Time": 991,
+   "CreditPool": 52,
+   "Util1": 19747831
+ },
+ {
+   "Time": 992,
+   "CreditPool": 13,
+   "Util1": 31915075
+ },
+ {
+   "Time": 993,
+   "CreditPool": 8,
+   "Util1": 4824106
+ },
+ {
+   "Time": 994,
+   "CreditPool": 106,
+   "Util1": 0
+ },
+ {
+   "Time": 995,
+   "CreditPool": 13,
+   "Util1": 137736492
+ },
+ {
+   "Time": 996,
+   "CreditPool": 13,
+   "Util1": 139808689
+ },
+ {
+   "Time": 997,
+   "CreditPool": 11,
+   "Util1": 66736699
+ },
+ {
+   "Time": 998,
+   "CreditPool": 109,
+   "Util1": 3887650
+ },
+ {
+   "Time": 999,
+   "CreditPool": 129,
+   "Util1": 13613256
+ },
+ {
+   "Time": 1000,
+   "CreditPool": 77,
+   "Util1": 43663045
+ }
+]
