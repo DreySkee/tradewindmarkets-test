@@ -6,7 +6,6 @@ export default `
     border-radius: 2px;
     border: 1px solid #e2e2e2;
     font-size: 14px;
-    -webkit-appearance: none;
     transition: .3s;
 
     &.error {
@@ -25,6 +24,11 @@ export default `
       border-color: #265e8b;  
     }
   } 
+
+  input[type='submit'],
+  input[type='text'] {
+    -webkit-appearance: none;   
+  }
 
   .form-field {
     position: relative;

@@ -6,6 +6,7 @@ import { Provider } from 'react-redux';
 import store from 'redux/store';
 import registerServiceWorker from './registerServiceWorker';
 import style from './style';
+import userActions from 'redux/User/actions'; 
 
 // Components
 import PrivateRoute from 'components/_common/PrivateRoute';
@@ -14,6 +15,13 @@ import Footer from 'components/_common/Footer';
 import SignUp from 'components/Auth/SignUp';
 import LogIn from 'components/Auth/LogIn';
 import Dashboard from 'components/Dashboard';
+
+
+const localStorageUser = localStorage.getItem("user");
+if(localStorageUser){
+  const userData = JSON.parse(localStorageUser)
+  store.dispatch(userActions.setUser(userData));
+}
 
 ReactDOM.render(
   <Provider store={store}>

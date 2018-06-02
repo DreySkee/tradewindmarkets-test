@@ -40,6 +40,8 @@ class Form extends React.Component {
 
       // signup, store data and redirect to dashboard
       this.props.signUp({ email, password }).then((data) => {  
+        
+        localStorage.setItem("user", JSON.stringify(data));
         this.props.setUser(data);
         this.props.history.push('/dashboard')
       }).catch((err) => {

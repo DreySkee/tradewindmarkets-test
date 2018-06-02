@@ -12,6 +12,7 @@ const SocialSignIn = ({...props}) => {
   const handleResponse = (data) => {
     if(data){
       data = data.profileObj ? data.profileObj : data // google responds with profile data in `data.profileObj` otherwise use facebook's `data`
+      localStorage.setItem("user", JSON.stringify(data));
       props.setUser(data);
       props.history.push('/dashboard')     
     } 

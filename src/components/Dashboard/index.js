@@ -4,8 +4,16 @@ import styled from 'styled-components';
 import style from './style';
 
 class Dashboard extends React.Component {
+
+  componentDidMount(){
+    fetch('https://storage.googleapis.com/dev-uis/abishekk/01-JUN-2018/convertcsv-short.json', {mode: 'no-cors'})
+    .then(response => {
+      console.log(response);
+    });
+  }
+
   render(){
-    const { userData } = this.props;
+    let { userData } = this.props;
 
     return (
       <div className={this.props.className}>
