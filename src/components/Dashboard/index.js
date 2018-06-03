@@ -61,7 +61,7 @@ class Dashboard extends React.Component {
   isCloseToLimit = (line) => {
     const threshold = line.Limit1 * line.WarnPct / 100;
 
-    if(line.Util1 >= threshold && line.Limit1 != 0){
+    if(line.Util1 >= threshold && line.Limit1 !== 0){
       return true;
     }
 
@@ -107,12 +107,13 @@ class Dashboard extends React.Component {
   }
 
   render(){
-    const { userData } = this.props;
+    //const { userData } = this.props;
     const { xAxis, yAxis, coordinates } = this.state;
+    const xAxisKeys = Object.keys(xAxis);
+    const yAxisKeys = Object.keys(yAxis);
 
     return (
       <div className={this.props.className}>
-          <h2>Dashboard</h2>
           <div>
             {/*Object.keys(userData).map((key, index) => (
               <div key={index}>
@@ -121,17 +122,16 @@ class Dashboard extends React.Component {
             ))*/}
 
             <div className="table">
+              {xAxisKeys.map((column, columnIndex) => (
+                <div key={columnIndex} className="column" style={{zIndex: xAxisKeys.length - columnIndex}}>
 
-              {Object.keys(yAxis).map((row,rowIndex) => (
-                <div key={rowIndex} className="row">
-
-                <div className="item label">{yAxis[rowIndex]}</div>
-                {Object.keys(xAxis).map((column, columnIndex) => { 
-                  const pool = coordinates[`${columnIndex}-${rowIndex}`];
-                  return(
-                    <Cell key={columnIndex} label={rowIndex === 0 && xAxis[columnIndex]} pool={pool} />
-                  );
-                })}  
+                  <div className="item label">{xAxis[columnIndex]}</div>
+                  {yAxisKeys.map((row, rowIndex) => { 
+                    const pool = coordinates[`${columnIndex}-${rowIndex}`];
+                    return(
+                      <Cell key={rowIndex} label={yAxis[rowIndex]} pool={pool} />
+                    );
+                  })}  
                 </div>
               ))} 
             </div>

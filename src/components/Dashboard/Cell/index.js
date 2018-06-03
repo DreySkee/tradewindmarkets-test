@@ -7,7 +7,7 @@ class Cell extends React.Component {
   }
 
   componentWillReceiveProps(nextProps){
-    if(nextProps.pool && nextProps.pool.Util1 != this.props.pool.Util1){
+    if(nextProps.pool && nextProps.pool.Util1 !== this.props.pool.Util1){
       this.setState((state) => ({
         justUpdated: true
       }), () => {
@@ -24,8 +24,8 @@ class Cell extends React.Component {
     const { label, pool } = this.props;
 
     return (
-      <div className={this.state.justUpdated ? `just-updated item` : 'item'}>
-        {label && <div className="item label">{label}</div>} 
+      <div className={this.state.justUpdated ? `just-updated item` : 'item'}> 
+        <div className="item label">{label}</div>
         
         {pool &&
           <div className={pool.closeToLimit ? `warning pool-data` : `pool-data` }>
@@ -33,6 +33,8 @@ class Cell extends React.Component {
             <div><b>Util: </b>{pool.Util1}</div>
             <div><b>Limit: </b>{pool.Limit1}</div>
             <div><b>WarnPct: </b>{pool.WarnPct}</div>
+
+            <div className="line-parties">From <b>{pool.DealcodeFrom}</b> to <b>{pool.DealcodeTo}</b></div>
           </div>
         }
       </div>

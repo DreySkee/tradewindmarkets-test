@@ -37,9 +37,9 @@ injectGlobal`
 
   .page {
     width: 100%;
-    max-width: 972px;
+   // max-width: 972px;
     margin: 0 auto;
-    padding: 0 20px;
+    padding: 0 10px;
   }
 
   .container {
